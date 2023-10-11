@@ -1,0 +1,50 @@
+<div class="product-container">
+    <div class="left-side">
+        <div class="product-image">
+            <img src={{produto?.imageURL}}>
+        </div>
+        <div class="product-description">
+            <mat-tab-group animationDuration="0ms" mat-stretch-tabs>
+                <mat-tab label="DETALHES">
+                    <div class="mat-div">
+                        <p> {{ produto?.especificacoes }} </p>
+                    </div>
+                </mat-tab>
+                <mat-tab label="DESCRIÇÃO GERAL">
+                    <div class="mat-div">
+                        <p> {{ produto?.descricao }} </p>
+                    </div>
+                </mat-tab>
+
+            </mat-tab-group>
+        </div>
+    </div>
+    <div class="right-side">
+        <div class="header">
+            <h1> {{ produto?.nome }} </h1>
+            <br>
+            <h1 class="price"> {{ produto?.preco }} € </h1>
+            <hr>
+        </div>
+        <div class="description">
+            <p> {{ produto?.descricao }} </p>
+        </div>
+        <div class="add-cart">
+            <button *ngIf="!produto?.adicionado && produto?.quantidade != 0" class="btn trebuchet add-to-cart" (click)="adicionarAoCarrinho(produto)">
+                <mat-icon class="icone">add_shopping_cart</mat-icon> Adicionar ao carrinho
+            </button>
+            <button *ngIf="produto?.adicionado" class="btn trebuchet added-to-cart" (click)="adicionarAoCarrinho(produto)">
+              <mat-icon class="icone">done</mat-icon> Adicionado
+            </button>
+            <span *ngIf="produto?.quantidade === 0" tabindex="0" data-bs-toggle="tooltip" title="O produto está indisponível de momento.">
+                <button class="btn trebuchet unavailable" disabled>
+                    <mat-icon class="icone">remove_shopping_cart</mat-icon> Indisponível
+                </button>
+            </span>
+        </div>
+    </div>
+</div>
+
+<div style="clear: both"></div>
+
+

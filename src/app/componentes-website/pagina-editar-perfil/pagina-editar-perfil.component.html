@@ -1,0 +1,159 @@
+<div class="edit-profile-container">
+    <form class="example-form needs-validation" #f="ngForm">
+        <div class="header">
+            <h1>
+                <img src="../../assets/double-bars.png">
+                Editar perfil
+            </h1>
+            <button type="submit" class="btn btn-outline-success" *ngIf="utilizador" (click)="editarPerfil(f)" [class.disabled]="!f.valid" [disabled]="!f.valid">Guardar</button>
+            <hr>
+        </div>
+
+        <br><br>
+
+        <div class="form-container" *ngIf="utilizador">
+            <div class="general-form">
+                <h2>
+                    Informação geral
+                </h2>
+                <hr>
+                <div class="general-form row">
+                    <div class="col-md-4">
+                        <label class="form-label">Email<span class="needed">*</span></label>
+                        <input name="email" type="email" class="form-control" [ngModel]="utilizador.email" #email="ngModel" required>
+                    </div>
+
+                    <div class="col-md-4">
+                        <label class="form-label">Password (não mostrável)</label>
+                        <input minlength="8" name="password" type="text" class="form-control" ngModel #password="ngModel">
+                    </div>
+                </div>
+            </div> 
+
+            <br><br><br>
+
+            <div class="personal-form">
+                <h2>
+                    Informação pessoal
+                </h2>
+                <hr>
+                <div class="personal-form row">
+                    <div class="col-md-4">
+                        <label class="form-label">Primeiro nome<span class="needed">*</span></label>
+                        <input name="FirstName" type="text" class="form-control" [ngModel]="utilizador.FirstName" #FirstName="ngModel" required>
+                    </div>
+
+                    <div class="col-md-4">
+                        <label class="form-label">Sobrenome<span class="needed">*</span></label>
+                        <input name="LastName" type="text" class="form-control" [ngModel]="utilizador.LastName" #LastName="ngModel" required>
+                    </div>
+
+                    <div class="col-md-4">
+                        <label class="form-label">Data de nascimento</label>
+                        <input value="utilizador.datanasc" name="datanasc" type="date" class="form-control" [ngModel]="utilizador.datanasc">
+                    </div>
+                    
+                    <div class="col-md-4">
+                        <label class="form-label">Sexo</label>
+                        <select class="form-select" name="sexo" [ngModel]="utilizador.sexo">
+                            <option selected value="Masculino" *ngIf="utilizador.sexo == 'Masculino'">Masculino</option>
+                            <option selected value="Feminino" *ngIf="utilizador.sexo == 'Feminino'">Feminino</option>
+                            
+                            <option value="Masculino" *ngIf="utilizador.sexo != 'Masculino'">Masculino</option>
+                            <option value="Feminino" *ngIf="utilizador.sexo != 'Feminino'">Feminino</option>
+                        </select>
+                    </div>
+
+                    <div class="col-md-4">
+                        <label class="form-label">Contacto principal</label>
+                        <input name="Contacto" type="number" class="form-control" [ngModel]="utilizador.Contacto">
+                    </div>
+                </div>
+            </div>
+
+            <br><br><br>
+
+            <div class="residential-form">
+                <h2>
+                    Informação residencial
+                </h2>
+                <hr>
+                <div class="residential-form row">
+                    <div class="col-md-4">
+                        <label class="form-label">País</label>
+                        <input name="pais" type="text" class="form-control" [ngModel]="utilizador.pais">
+                    </div>
+
+                    <div class="col-md-4">
+                        <label class="form-label">Distrito</label>
+                        <input name="distrito" type="text" class="form-control" [ngModel]="utilizador.distrito">
+                    </div>
+
+                    <div class="col-md-4">
+                        <label class="form-label">Concelho</label>
+                        <input name="concelho" type="text" class="form-control" [ngModel]="utilizador.concelho">
+                    </div>
+
+                    <div class="col-md-4">
+                        <label class="form-label">Freguesia</label>
+                        <input name="freguesia" type="text" class="form-control" [(ngModel)]="utilizador.freguesia">
+                    </div>
+
+                    <div class="col-md-4">
+                        <label class="form-label">Morada</label>
+                        <input name="Morada" type="text" class="form-control" [ngModel]="utilizador.Morada">
+                    </div>
+
+                    <div class="col-md-4">
+                        <label class="form-label">Código postal</label>
+                        <input name="CodigoPostal" type="text" class="form-control" [ngModel]="utilizador.CodigoPostal">
+                    </div>
+                </div>
+            </div>
+
+            <br><br><br>
+
+            <div class="bank-form">
+                <h2>
+                    Informação bancária
+                </h2>
+                <hr>
+                <div class="bank-form row">
+                    <div class="col-md-4">
+                        <label class="form-label">NIB</label>
+                        <input name="ncontaban" type="text" class="form-control" [ngModel]="utilizador.ncontaban">
+                    </div>
+
+                    <div class="col-md-4">
+                        <label class="form-label">Banco</label>
+                        <select class="form-select" name="banco" [ngModel]="utilizador.banco">
+                            <option value="BPI" selected *ngIf="utilizador.banco == 'BPI'">BPI</option>
+                            <option value="Novo Banco" selected *ngIf="utilizador.banco == 'Novo Banco'">Novo Banco</option>
+                            <option value="Millenium BCP" selected *ngIf="utilizador.banco == 'Millenium BCP'">Millenium BCP</option>
+                            <option value="Santander Totta" selected *ngIf="utilizador.banco == 'Santander Totta'">Santander Totta</option>
+                            <option value="BANIF" selected *ngIf="utilizador.banco == 'BANIF'">BANIF</option>
+                            <option value="Montepio" selected *ngIf="utilizador.banco == 'Montepio'">Montepio</option>
+
+                            <option value="BPI" *ngIf="utilizador.banco != 'BPI'">BPI</option>
+                            <option value="Novo Banco" *ngIf="utilizador.banco != 'Novo Banco'">Novo Banco</option>
+                            <option value="Millenium BCP" *ngIf="utilizador.banco != 'Millenium BCP'">Millenium BCP</option>
+                            <option value="Santander Totta" *ngIf="utilizador.banco != 'Santander Totta'">Santander Totta</option>
+                            <option value="BANIF" *ngIf="utilizador.banco != 'BANIF'">BANIF</option>
+                            <option value="Montepio" *ngIf="utilizador.banco != 'Montepio'">Montepio</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+            <br>
+            <hr>
+            <button type="submit" (click)="editarPerfil(f)" class="btn btn-outline-success" [class.disabled]="!f.valid" [disabled]="!f.valid">Guardar</button>
+            <br><br>
+        </div>
+        <div class="if-empty" *ngIf="!utilizador">
+            <h2>
+              A carregar...
+            </h2>
+            <hr>
+        </div>
+    </form>
+</div>

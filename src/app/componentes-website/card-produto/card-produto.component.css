@@ -1,0 +1,118 @@
+.bt-price {
+    display: flex;
+    justify-content: space-between;
+}
+
+.price {
+    font-weight: bold;
+    font-family: 'Trebuchet MS';
+    font-size: 22px;
+    top: 50%;
+    transform: translateY(-50%);
+    position: relative;
+}
+
+.row {
+    justify-content: center;
+}
+
+.card-title {
+    font-size: 18px;
+}
+
+.trebuchet {
+    font-family: 'Trebuchet MS';
+}
+
+.btn {
+    color: white;
+    display: flex;
+    transition: 0.5 linear;
+}
+
+.btn.add-to-cart {
+    background-color: rgb(255, 69, 0);
+}
+
+.btn.added-to-cart {
+    background-color: rgb(0, 160, 27);
+}
+
+.btn.unavailable {
+    background-color: rgb(160, 0, 0);
+}
+
+.btn.add-to-cart:hover {
+    background-color: white;
+    color: rgb(255, 69, 0);
+    border-color: rgb(255, 69, 0);
+}
+
+.btn.added-to-cart:hover {
+    background-color: white;
+    color: rgb(0, 160, 27);
+    border-color: rgb(0, 160, 27);
+}
+
+.icone {
+    margin-right: 5px;
+}
+
+h5 {
+    transition: .5s;
+}
+
+
+.image {
+    width: 220px;
+    height: 220px;
+    left: 50%;
+    transform: translateX(-50%);
+    position: relative;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.card {
+    width: 18rem;
+}
+
+@media only screen and (max-width: 1280px) {
+    .card {
+      width: 17rem;
+    }
+  } 
+
+.image img {
+    width: 80%;
+    transition: .5s;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    position: relative; 
+    max-height: 100%;
+}
+
+.image:hover +.card-body h5{
+    color: rgb(255, 69, 0);
+}
+
+.image img:hover {
+    cursor: pointer;
+    width: 85%;
+   
+}
+
+.card h5:hover {
+    color: rgb(255, 69, 0);
+    cursor: pointer;
+}
+
+.if-empty {
+    margin-bottom: 400px;
+}
+
+
+
+
+

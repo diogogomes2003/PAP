@@ -1,0 +1,82 @@
+{
+  "produtos": [
+    {
+      "id": "1",
+      "nome": "Memória RAM 8GB",
+      "descricao": "Memória RAM",
+      "especificadores": "8GB, DDR4 e RGB",
+      "tipo": "ram",
+      "quantidade": 5,
+      "preco": 55,
+      "imageURL": "https://www.infocomputerportugal.com/12231-home_default/memoria-ram-csx-8gb-ddr3-dimm-1600-mhz.jpg"
+    },
+    {
+      "id": "2",
+      "nome": "Processador",
+      "descricao": "Processador",
+      "especificadores": "20MB Cache, i7",
+      "tipo": "processador",
+      "quantidade": 2,
+      "preco": 300,
+      "imageURL": "https://img.globaldata.pt/products/BX8070110700KF_2.jpg"
+    },
+    {
+      "id": "3",
+      "nome": "Placa gráfica Nvidia",
+      "descricao": "NVIDIA RTX 2080",
+      "especificadores": "4GB DDR5",
+      "tipo": "placa-grafica",
+      "quantidade": 2,
+      "preco": 600,
+      "imageURL": "data:image/jpeg;base64,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"
+    },
+    {
+      "id": "4",
+      "nome": "Razer Deathadder Essential",
+      "descricao": "Rato Razer Deathadder Essential, máximo de 6400 DPIs e compatível com o programa Razer Cortex.",
+      "especificadores": "Máximo de DPIs: 6400 | RGB | Compatível com Razer Cortex",
+      "tipo": "rato",
+      "quantidade": 2,
+      "preco": 40,
+      "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKmpuAKejze05V4VW1AyZstAsVFn471ZQXKyXp2z9C4ddW-zD2r1EHtpnyX5ggJM6oxoM3sdnt&usqp=CAc"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "email": "rubensantos994@gmail.com",
+      "password": "123",
+      "FirstName": "",
+      "LastName": "Santos",
+      "datanasc": "01/05/2003",
+      "sexo": "Masculino",
+      "Contacto": "912861639",
+      "pais": "Portugal",
+      "distrito": "Porto",
+      "concelho": "Vila Nova de Gaia",
+      "freguesia": "S. Félix da Marinha",
+      "Morada": "Rua da Bela, 133",
+      "CodigoPostal": "4410-208",
+      "ncontaban": "12431223",
+      "banco": "BPI"
+    },
+    {
+      "id": "1",
+      "email": "rubensantos9944@gmail.com",
+      "password": "123",
+      "FirstName": "",
+      "LastName": "Santos",
+      "datanasc": "01/05/2003",
+      "sexo": "Masculino",
+      "Contacto": "912861639",
+      "pais": "Portugal",
+      "distrito": "Porto",
+      "concelho": "Vila Nova de Gaia",
+      "freguesia": "S. Félix da Marinha",
+      "Morada": "Rua da Bela, 133",
+      "CodigoPostal": "4410-208",
+      "contaban": "12431223",
+      "banco": "BPI"
+    }
+  ]
+}

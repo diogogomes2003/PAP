@@ -1,0 +1,815 @@
+[{
+  "_id": {
+    "$oid": "60f45061d557770383e019b9"
+  },
+  "nome": "Caixa ATX NZXT H510 Branca",
+  "descricao": "As caixas ATX compactas NZXT da série H510 são impressionantes e têm um excelente valor. Perfeita quando você quer uma caixa ATX de tamanho reduzido, sem sacrificar os recursos. Um suporte de montagem do radiador removível, janela de vidro temperado nivelado, vários filtros de ventoinha e USB 3.1 Gen 2 tipo C frontal são apenas algumas das comodidades.",
+  "especificacoes": "Motherboards compatíveis: Mini-ITX/Micro-ATX/ATX ",
+  "tipo": "caixa",
+  "quantidade": 20,
+  "preco": 79.49,
+  "imageURL": "https://img.globaldata.pt/products/CA-H510B-W1.jpg"
+},{
+  "_id": {
+    "$oid": "60f48ccbefc21f0aa630899d"
+  },
+  "nome": "Caixa ATX NZXT H510 Preta",
+  "descricao": "As caixas ATX compactas NZXT da série H510 são impressionantes e têm um excelente valor. Perfeita quando você quer uma caixa ATX de tamanho reduzido, sem sacrificar os recursos. Um suporte de montagem do radiador removível, janela de vidro temperado nivelado, vários filtros de ventoinha e USB 3.1 Gen 2 tipo C frontal são apenas algumas das comodidades.",
+  "especificacoes": "Motherboards compatíveis: Mini-ITX/Micro-ATX/ATX",
+  "tipo": "caixa",
+  "quantidade": 20,
+  "preco": 79.49,
+  "imageURL": "https://img.globaldata.pt/products/CA-H510B-B1_1.jpg?auto=compress%2Cformat&fit=fill&fill-color=fff&q=70&fill=solid&w=442&h=442"
+},{
+  "_id": {
+    "$oid": "60f49176efc21f0aa630899e"
+  },
+  "nome": "Caixa E-ATX Cooler Master Cosmos C700P",
+  "descricao": "Os avanços na COSMOS C700P original incluem o PSU Shroud, suportes de radiador planos, painéis de malha fina, sistema de cobertura de cabos e um painel traseiro extra - todos alojados numa C700P em preto fosco. Um painel lateral de vidro temperado levemente colorido com duas bordas curvas oferece uma ampla visão da construção do sistema. O PSU Shroud avança na modularidade com duas partes independentes, enquanto o sistema de cobertura de cabos possui 3 peças separadas, cada uma com a capacidade de montar armazenamento ou uma bomba para refrigeração líquida. Os suportes de radiador planos oferecem um processo mais fácil de manutenção, montagem e remoção para a refrigeração líquida, com mais espaço para configurações push-pull. Para suportar layouts exóticos com motherboards ou placas gráficas orientadas verticalmente, é incluído um painel alternativo com ilhós de borracha para permitir a passagem de cabos externos. O design exclusivo do quadro suporta um layout convencional, chaminé, inverso ou um layout totalmente personalizado. A bandeja da motherboard também é removível para instalação fora do chassi. O painel I/O avançado possui uma porta USB 3.1 (Gen 2) Tipo C, quatro portas USB 3.0 adicionais, um botão de controlo de velocidade da ventoinha e um botão de controlo RGB.",
+  "especificacoes": "Motherboards compatíveis: E-ATX/ATX/Micro-ATX/Mini-ITX",
+  "tipo": "caixa",
+  "quantidade": 20,
+  "preco": 338.89,
+  "imageURL": "https://www.castroelectronica.pt/Imgs/produtos/product_154351/MCC-C700P-KG5N-S00_1.jpg"
+},{
+  "_id": {
+    "$oid": "60f49552efc21f0aa630899f"
+  },
+  "nome": "Caixa ATX Cooler Master MasterBox MB500",
+  "descricao": "Use a retroiluminação RGB para criar uma configuração cativante no seu tema de cores preferido. Mostre o seu estilo de construção através do painel lateral de vidro temperado de borda a borda de 4 mm de espessura. Fluxo de ar otimizado devido ao painel frontal semi-mesclado e orifícios de ventilação em cima da caixa. A frontal suporta até três ventoinhas de 120mm ou duas de 140mm e até um radiador de 360mm, com uma espessura máxima de 50mm sem ventoinhas. A traseira suporta uma ventoinha de 120 mm ou um radiador, enquanto que a parte superior suporta até duas ventoinhas de 120 mm. Ela vem com duas ventoinhas RGB pré-instalados de 120 mm na frente e uma ventoinha RGB de 120 mm na parte traseira. Tudo para garantir que você não tenha que comprometer o desempenho. O interior espaçoso adapta-se a todas as motherboard padrão para as suas necessidades de jogo. Revestimento preto e uma tampa de PSU incluída permite configurações simples e fáceis para a sua RIG gaming. Deixe a sua configuração destacar-se com um fundo totalmente preto.",
+  "especificacoes": "Motherboards compatíveis: Mini-ITX/Micro-ATX/ATX",
+  "tipo": "caixa",
+  "quantidade": 20,
+  "preco": 66.99,
+  "imageURL": "https://img.globaldata.pt/products/MCB-B500D-KGNN-S00.jpg?auto=compress%2Cformat&fit=fill&fill-color=fff&q=70&fill=solid&w=442&h=442"
+},{
+  "_id": {
+    "$oid": "60f496e8efc21f0aa63089a0"
+  },
+  "nome": "Caixa Big Tower Showcase Jonsbo MOD3 Preto",
+  "descricao": "Um total de 6 ventoinhas de 120 mm podem ser instaladas na Jonsbo MOD3, três ventoinhas na frente e três na tampa da caixa. Existe também espaço para um cooler CPU com até 180 mm de altura.No entanto, pode ser montado um radiador até 360 mm na tampa da caixa. O painel I/O oferece duas portas USB 3.0, bem como duas entrada de áudio de 3,5 mm.",
+  "especificacoes": "Motherboards compatíveis: E-ATX/ATX/Micro-ATX/Mini-ITX",
+  "tipo": "caixa",
+  "quantidade": 20,
+  "preco": 279.99,
+  "imageURL": "https://img.globaldata.pt/products/MOD3BLACK.jpg?auto=compress%2Cformat&fit=fill&fill-color=fff&q=70&fill=solid&w=442&h=442"
+},{
+  "_id": {
+    "$oid": "60f498bdefc21f0aa63089a1"
+  },
+  "nome": "Motherboard ASRock Z490 Phantom Gaming 4",
+  "descricao": "Com componentes resistentes e entrega de energia completamente suave para o CPU. Oferece recursos incomparáveis de overclock e desempenho melhorado com a temperatura mais baixa.Se estiver a usar auscultadores ou colunas, via USB, Wi-Fi, saída analógica ou mesmo HDMI, o Nahimic áudio oferece a experiência de audição mais envolvente, vibrante e rica em detalhes.A Intel® LAN oferece o melhor desempenho de taxa de transferência, menor utilização do CPU, estabilidade melhorada e é capaz de oferecer a melhor experiência de rede aos utilizadores!Comparado aos chokes tradicionais, os chokes de potência premium 50A da ASRock efetivamente tornam a corrente de saturação até três vezes melhor, fornecendo, assim, tensão Vcore melhorada para a motherboard.",
+  "especificacoes": "Suporta processadores Intel® Core™ da 10ª geração para o Socket 1200",
+  "tipo": "motherboard",
+  "quantidade": 20,
+  "preco": 149.99,
+  "imageURL": "https://img.globaldata.pt/products/90-MXBC60-A0UAYZ.jpg?auto=compress%2Cformat&fit=fill&fill-color=fff&q=70&fill=solid&w=442&h=442"
+},{
+  "_id": {
+    "$oid": "60f49a92efc21f0aa63089a2"
+  },
+  "nome": "Motherboard ASRock B460 Pro4",
+  "descricao": "Se estiver a usar auscultadores ou colunas externas, via USB, Wi-Fi, saída analógica ou mesmo HDMI, o Nahimic áudio oferece uma experiência de audição mais envolvente, vibrante e rica em detalhes.Suporta a tecnologia de memória Intel® Optane™ e a tecnologia de armazenamento Intel® Optane™ que redefine um novo padrão de alto desempenho e capacidade de resposta.Uma ferramenta fácil de resolução de problemas que mostra o funcionamento do CPU / DRAM / VGA / BOOT cada vez que se liga o sistema. O Post Status é uma forma rápida e fácil de identificar a origem do problema.Intel® LAN fornece o melhor desempenho de taxa de transferência, menor utilização da CPU, estabilidade melhorada e é capaz de oferecer a melhor experiência de rede aos utilizadores!",
+  "especificacoes": "Suporta processadores de socket LGA 1200 10ª geração Intel Core",
+  "tipo": "motherboard",
+  "quantidade": 20,
+  "preco": 117.99,
+  "imageURL": "https://img.globaldata.pt/products/90-MXBCN0-A0UAYZ.jpg?auto=compress%2Cformat&fit=fill&fill-color=fff&q=70&fill=solid&w=442&h=442"
+},{
+  "_id": {
+    "$oid": "60f49c5fefc21f0aa63089a3"
+  },
+  "nome": "Motherboard Gigabyte Z390 Aorus Master",
+  "descricao": "Com Smart Fan 5, utilizadores podem assegurar que o seu PC gaming pode manter o desempenho sem aquecer.\n Através de diversos sensores de temperatura presente da motherboard, Smart Fan 5 controla as ventoinhas com base nestes.\n A Gigabyte oferece uma plataforma testada e fiável com compatibilidade para memórias 4266MHz.\n Tem também suporte para perfis XMP. \n Personalize a sua máquina ao seu gosto através da seleção de uma cor à sua escolha, para iluminar a fita LED externa.\n A inovativa peça única, em aço, reforça os conectores PCIe de forma a suportarem placas gráficas mais pesadas.",
+  "especificacoes": "Intel Core 8ª / 9ª Geração, Intel Pentium e Intel Celeron de socket LGA1151",
+  "tipo": "motherboard",
+  "quantidade": 20,
+  "preco": 299.99,
+  "imageURL": "https://img.globaldata.pt/products/GAZ39MSTR-00-GA.jpg?auto=compress%2Cformat&fit=fill&fill-color=fff&q=70&fill=solid&w=442&h=442"
+},{
+  "_id": {
+    "$oid": "60f4a1aeefc21f0aa63089a4"
+  },
+  "nome": "Motherboard Asus ROG Strix X399-E Gaming",
+  "descricao": "A Aura Sync leva a iluminação RGB para além da caixa de seleção, combinando e controlando os LEDs de todos os seus produtos Aura a partir de uma única aplicação, para que possa atingir uma harmonia perfeita e sincronizada. De motherboards e fitas RGB a placas gráficas, a Aura Sync permite uma sinfonia variada de luz para proporcionar as melhores capacidades de personalização.Um gerador dedicado do base-clock (BCLK) concebido para processadores AMD Ryzen Threadripper permite frequências base até ou superiores a 117MHz. Esta solução personalizada funciona em conjunto com o TPU (ASUS TurboV Processing Unit), para melhorar a voltagem e controlo de overclocking do base-clock —proporcionando uma forma nova e emocionante de levar a performance a alturas extremas.",
+  "especificacoes": "Processadores AMD Ryzen Threadripper para socket TR4",
+  "tipo": "motherboard",
+  "quantidade": 20,
+  "preco": 359.99,
+  "imageURL": "https://img.globaldata.pt/products/90MB0V70-M0EAY0.jpg?auto=compress%2Cformat&fit=fill&fill-color=fff&q=70&fill=solid&w=442&h=442"
+},{
+  "_id": {
+    "$oid": "60f4a496efc21f0aa63089a5"
+  },
+  "nome": "Motherboard Asus TUF X570-Plus Gaming",
+  "descricao": "A TUF Gaming X570-Plus destila os elementos essenciais da mais recente plataforma AMD e combina-os com funções game-ready e uma durabilidade comprovada. Concebida com componentes de classe militar, soluções de energia melhoradas e um conjunto de opções de arrefecimento abrangente, estas motherboards proporcionam uma performance sólida com uma estabilidade gaming inabalável.Quando constrói com uma motherboard TUF Gaming, irá também beneficiar da TUF Gaming Alliance - uma colaboração da ASUS com parceiros de confiança que garantem uma construção Simplificada, a melhor compatibilidade e estética complementar desde os componentes ao chassis.",
+  "especificacoes": "AMD Ryzen 3ª e 2ª AMD Ryzen / 2ª e 1ª Geração AMD Ryzen com Processadores Gráficos Radeon Vega / Socket AM4",
+  "tipo": "motherboard",
+  "quantidade": 20,
+  "preco": 199.99,
+  "imageURL": "https://img.globaldata.pt/products/90MB1180-M0EAY0.jpg?auto=compress%2Cformat&fit=fill&fill-color=fff&q=70&fill=solid&w=442&h=442"
+},{
+  "_id": {
+    "$oid": "60f4a60cefc21f0aa63089a6"
+  },
+  "nome": "HyperX 8GB DDR4 2933MHz Predator RGB CL15",
+  "descricao": "Dá ao teu sistema o deslumbrante estilo RGB e o desempenho de que necessita para te manteres no topo da cadeia alimentar com a ultrarrápida HyperX Predator DDR4 RGB. Configura facilmente e exibe o teu visual exclusivo graças à tecnologia Infrared Sync da HyperX, sem quaisquer cabos. A Predator DDR4 RGB mantém-se fresca e com um visual fantástico, graças ao dissipador de calor agressivo em preto, concebido para complementar o seu deslumbrante visor iluminado. Aumenta a tua taxa de fotogramas, mantém as tuas sequências fluidas e acelera a reprodução dos teus destaques com rápidas velocidades e uma latência reduzida.",
+  "especificacoes": "Tipo de memória: DDR4 | Capacidade: 8GB | Velocidade: 2933MHz | CAS Latency: CL15",
+  "tipo": "ram",
+  "quantidade": 20,
+  "preco": 64.99,
+  "imageURL": "https://img.globaldata.pt/products/HX429C15PB3A_8_2F8.jpg?auto=compress%2Cformat&fit=fill&fill-color=fff&q=70&fill=solid&w=442&h=442"
+},{
+  "_id": {
+    "$oid": "60f4a6dcefc21f0aa63089a7"
+  },
+  "nome": "G.Skill Kit 8GB (2 x 4GB) DDR4 2800MHz Ripjaws V Red CL15",
+  "descricao": "Disponível numa ampla gama de opções de frequência DDR4 as Ripjaws V permitem-lhe desfrutar de uma experiência de computação mais rápida para jogos vídeo e edição de imagem renderização e processamento de dados.Cada memória DDR4 Ripjaws V é testada com um rigoroso processo de validação da G.SKILL nas principais marcas de motherboards de forma a garantir fiabilidade compatibilidade e desempenho “best-in-class”.",
+  "especificacoes": "Tipo de memória: DDR4 | Capacidade: 8GB (2 x 4GB) | Velocidade: 2800MHz | CAS Latency: CL15",
+  "tipo": "ram",
+  "quantidade": 20,
+  "preco": 49.99,
+  "imageURL": "https://img.globaldata.pt/products/F4-2800C15D-8GVR.jpg?auto=compress%2Cformat&fit=fill&fill-color=fff&q=70&fill=solid&w=442&h=442"
+},{
+  "_id": {
+    "$oid": "60f4a7c3efc21f0aa63089a8"
+  },
+  "nome": "HyperX SO-DIMM Kit 16GB (2 x 8GB) DDR4 3200MHz Impact CL20",
+  "descricao": "A instalação da memória HyperX Impact DDR4 é fácil e sem complicações. É plug and play e faz o overclock automaticamente (em sistemas com chipset da série 100 da Intel) para a maior frequência divulgada sem necessidade de ajustar as configurações da BIOS.",
+  "especificacoes": "Tipo de memória: DDR4 | Capacidade: 16GB (2 x 8GB) | Velocidade: 3200MHz | CAS Latency: CL20",
+  "tipo": "ram",
+  "quantidade": 20,
+  "preco": 118.59,
+  "imageURL": "https://img.globaldata.pt/products/HX432S20IB2K2_16_2F16.jpg?auto=compress%2Cformat&fit=fill&fill-color=fff&q=70&fill=solid&w=442&h=442"
+},{
+  "_id": {
+    "$oid": "60f4b00eefc21f0aa63089a9"
+  },
+  "nome": "G.Skill Kit 64GB (4 x 16GB) DDR4 2400MHz Aegis CL15",
+  "descricao": "Batizado com o nome do poderoso escudo dos deuses Gregos, Aegis simboliza a força e o poder. Esta nova adição de memórias DDR4 á família AEGIS de memórias gaming, são desenhadas para um upgrade no desempenho e alta estabilidade nos PCs gaming mais recentes, fornece o aumento de desempenho que a tua build merece, seja em qual jogo for. FPSs, RTSs, MOBAs ou MMORPGs, deixa as memorias AEGIS serem o teu arsenal gaming!",
+  "especificacoes": "Tipo de memória: DDR4 | Capacidade: 64GB (4 x 16GB) | Velocidade: 2800MHz | CAS Latency: CL15",
+  "tipo": "ram",
+  "quantidade": 20,
+  "preco": 359.99,
+  "imageURL": "https://img.globaldata.pt/products/F4-2400C15Q-64GIS.jpg?auto=compress%2Cformat&fit=fill&fill-color=fff&q=70&fill=solid&w=442&h=442"
+},{
+  "_id": {
+    "$oid": "60f4b0ceefc21f0aa63089aa"
+  },
+  "nome": "Kingston SO-DIMM 4GB DDR3 1600MHz CL11",
+  "descricao": "A Kingston Technology é o maior fabricante independente de memórias do mundo contando com uma excelente reputação pela qualidade dos seus produtos e pelos seus preços competitivos. A memória ValueRAM Desktop and Notebook Premier Memory da Kingston foi concebida para clientes que criam e/ou utilizam computadores de secretária ou portáteis de marca branca mas que pretendem uma lista de materiais concreta e controlada.",
+  "especificacoes": "Tipo de memória: DDR3 | Capacidade: 4GB | Velocidade: 1600MHz | CAS Latency: CL11",
+  "tipo": "ram",
+  "quantidade": 20,
+  "preco": 32.99,
+  "imageURL": "https://img.globaldata.pt/products/KVR16S11S8_4_2F4.jpg?auto=compress%2Cformat&fit=fill&fill-color=fff&q=70&fill=solid&w=442&h=442"
+},{
+  "_id": {
+    "$oid": "60f4b1cfefc21f0aa63089ab"
+  },
+  "nome": "Processador Intel Core i9 9900K 8-Core (3.6GHz-5GHz) 16MB Skt1151",
+  "descricao": "O Intel Core i9-9900K é o novo Core 9000 da série top-of-the-line e possui oito núcleos com Hyper-Threading (SMT), para que ele possa executar até 16 threads simultaneamente. O processador entusiasta também pode convencer com suas taxas de relógio aumentadas e funções de impulso otimizadas em comparação com seus antecessores. O TDP é de apenas 95 watts. O processador é compatível com as motherboards da série 300 Socket 1151.",
+  "especificacoes": "Socket: 1151 | Número de Cores: 8 | Número de Threads: 16 | Cache: 16 MB",
+  "tipo": "processador",
+  "quantidade": 20,
+  "preco": 325.99,
+  "imageURL": "https://img.globaldata.pt/products/BX80684I99900K_3.jpg?auto=compress%2Cformat&fit=fill&fill-color=fff&q=70&fill=solid&w=442&h=442"
+},{
+  "_id": {
+    "$oid": "60f4b5c6efc21f0aa63089ac"
+  },
+  "nome": "Processador AMD Ryzen 9 3950X 16-Core (3.5GHz-4.7GHz) 64MB AM4",
+  "descricao": "Desenvolvido para inspirar e potencializar jogadores, streamers e criadores. O processador Ryzen™ 9 3950X da AMD não foi criado apenas para executar, mas sim para vencer. Cruze a fronteira entre desempenho de jogos e a criação de conteúdo profissional com o mais avançado processador para desktop do mundo, com a arquitetura Zen2 de 7nm. Agora, a AMD oferece 16 núcleos e 32 threads com o novo AMD Ryzen 9 3950X, um processador pronto para criar, jogar e realizar tudo o que exigir dele.",
+  "especificacoes": "Socket: AM4 | Número de Cores: 16 | Número de Threads: 32 | Cache L1: 1 MB L2: 8 MB L3: 64 MB",
+  "tipo": "processador",
+  "quantidade": 20,
+  "preco": 782.99,
+  "imageURL": "https://img.globaldata.pt/products/100-100000051WOF.jpg?auto=compress%2Cformat&fit=fill&fill-color=fff&q=70&fill=solid&w=442&h=442"
+},{
+  "_id": {
+    "$oid": "60f4b96aefc21f0aa63089ad"
+  },
+  "nome": "Processador Intel Celeron G5900 2-Core (3.4GHz) 2MB Skt1200",
+  "descricao": "O processador Intel® Celeron® G-5900 para desktop oferece um excelente desempenho para as necessidades informáticas básicas. Solução térmica NÃO incluída na caixa. SOMENTE compatível com a motherboard baseada em chipset série 400. 58W.",
+  "especificacoes": "Socket: 1200 | Número de Cores: 2 | Número de Threads: 2 | Cache: 2 MB",
+  "tipo": "processador",
+  "quantidade": 20,
+  "preco": 49.99,
+  "imageURL": "https://img.globaldata.pt/products/BX80701G5900.jpg?auto=compress%2Cformat&fit=fill&fill-color=fff&q=70&fill=solid&w=442&h=442"
+},{
+  "_id": {
+    "$oid": "60f4bcdcefc21f0aa63089af"
+  },
+  "nome": "Processador Intel Core i9 10900X 10-Core (3.7GHz-4.5GHz) 19.25MB Skt2066",
+  "descricao": "A família de processadores Intel® Core™ série X foi criada para se adaptar às suas necessidades de criação de conteúdo, para as mais extremas exigências. Usufrua de um desempenho extremo, recursos visuais imersivos em 4K, armazenamento em alta velocidade e memória DDR4 e os mais recentes avanços tecnológicos, todos projetados para que projete a sua obra-prima mais rapidamente do que nunca. A tecnologia Intel® Turbo Boost Max 3.0 otimiza o desempenho das threads, identificando os dois núcleos mais rápidos do seu processador e direcionando as suas cargas de trabalho mais críticas para eles. Ele também vem pronto para instalar a memória Intel® Optane™ e os SSDs Intel® Optane™ para uma incrível capacidade de resposta do sistema.",
+  "especificacoes": "Socket: 2066 | Número de Cores: 10 | Número de Threads: 20 | Cache: 19.25 MB",
+  "tipo": "processador",
+  "quantidade": 20,
+  "preco": 589.99,
+  "imageURL": "https://img.globaldata.pt/products/BX8069510900X.jpg?auto=compress%2Cformat&fit=fill&fill-color=fff&q=70&fill=solid&w=442&h=442"
+},{
+  "_id": {
+    "$oid": "60f4bfe5efc21f0aa63089b0"
+  },
+  "nome": "Processador AMD Ryzen 9 3900XT 12-Core (3.8GHz-4.7GHz) 70MB AM4",
+  "descricao": "A arquitetura “Zen 2” do núcleo de alto desempenho da AMD permite que os Processadores de 3ª geração Ryzen™ ofereçam o mais alto desempenho para uma ou múltiplas linha(s) de execução e de qualquer Processador de desktop convencional. Tanto para jogadores quanto para os criadores de conteúdo, este desempenho foi criado essencialmente para ajudá-lo a vencer.",
+  "especificacoes": "Socket: AM4 | Número de Cores: 12 | Número de Threads: 24 | Cache L2: 6 MB L3: 64 MB",
+  "tipo": "processador",
+  "quantidade": 20,
+  "preco": 499.99,
+  "imageURL": "https://img.globaldata.pt/products/100-100000277WOF.jpg?auto=compress%2Cformat&fit=fill&fill-color=fff&q=70&fill=solid&w=442&h=442"
+},{
+  "_id": {
+    "$oid": "60f5d62cfffa3e043269f175"
+  },
+  "nome": "Disco Toshiba 4TB P300 5400rpm 128MB SATA III",
+  "descricao": "A unidade P300 é ideal para designers gráficos e profissionais criativos que procuram um desempenho potente. Armazenamento de 4TB, com velocidades de leitura e escrita rápidas e um design seguro.",
+  "especificacoes": "Capacidade : 4TB | InterfaceSATA : 6Gb/s | Tamanho : 3.5’ | Velocidade : 54OOrpm",
+  "tipo": "hdd",
+  "quantidade": 20,
+  "preco": 128.99,
+  "imageURL": "https://img.globaldata.pt/products/HDWD240UZSVA.jpg?auto=compress%2Cformat&fit=fill&fill-color=fff&q=70&fill=solid&w=442&h=442"
+},{
+  "_id": {
+    "$oid": "60f5d77bfffa3e043269f176"
+  },
+  "nome": "Disco Western Digital Black 6TB 7200rpm 256MB SATA III",
+  "descricao": "As unidades de disco rígido WD Black são projetadas para PCs desktop e utilizadores que procuram desempenho, com uma variedade de opções de upgrade disponíveis.As unidades WD Black oferecem o melhor desempenho para o armazenamento de grandes arquivos multimédia de fotos, vídeos e aplicativos.Ajustado para desempenho e perfeito para jogos. As unidades WD Black oferecem grandes capacidades para o armazenamento da sua crescente biblioteca de jogos.A unidade WD Black possui um processador dual-core que oferece duas vezes a capacidade de processamento que um processador single-core para maximizar o desempenho da unidade.",
+  "especificacoes": "Capacidade : 6TB | InterfaceSATA : 6Gb/s | Tamanho : 3.5’ | Velocidade : 72OOrpm",
+  "tipo": "hdd",
+  "quantidade": 20,
+  "preco": 289.99,
+  "imageURL": "https://img.globaldata.pt/products/WD6003FZBX.jpg?auto=compress%2Cformat&fit=fill&fill-color=fff&q=70&fill=solid&w=442&h=442"
+},{
+  "_id": {
+    "$oid": "60f5d927fffa3e043269f177"
+  },
+  "nome": "Disco Western Digital Purple 2TB 5400rpm 64MB SATA III",
+  "descricao": "Com uma carga de trabalho nominal de 180 TB/ano – três vezes maior que a de unidades desktop – o WD Purple é projectado para atender às especificações únicas de sistemas de vigilância de vídeo moderno DVR e NVR.Os discos rígidos WD Purple são construídos tendo em mente a compatibilidade, para que você possa adicionar capacidade com rapidez e simplicidade ao seu sistema de vigilância.",
+  "especificacoes": "Capacidade : 2TB | Interface: SATA III | Tamanho : 3.5’ | Velocidade : 54OOrpm",
+  "tipo": "hdd",
+  "quantidade": 20,
+  "preco": 62.39,
+  "imageURL": "https://img.globaldata.pt/products/WD20PURZ_1.jpg?auto=compress%2Cformat&fit=fill&fill-color=fff&q=70&fill=solid&w=442&h=442"
+},{
+  "_id": {
+    "$oid": "60f5da5efffa3e043269f178"
+  },
+  "nome": "Disco Seagate Barracuda 1TB 7200rpm 64MB SATA III",
+  "descricao": "O BarraCuda lidera o setor com as mais altas capacidades para desktops e computadores móveis. Com discos de elevada capacidade, o portfólio do BarraCuda é uma ótima opção para upgrades em qualquer faixa de preço. O BarraCuda não abre mão de nada e oferece a capacidade de armazenamento mais alta do setor com velocidades de rotação de 7.200 RPM para proporcionar um desempenho e tempos de carregamento incrivelmente rápidos para jogos ou execução de cargas de trabalho pesadas.",
+  "especificacoes": "Capacidade : 1TB | InterfaceSATA: 6Gb/s | Tamanho : 3.5’ | Velocidade : 72OOrpm",
+  "tipo": "hdd",
+  "quantidade": 20,
+  "preco": 39.99,
+  "imageURL": "https://img.globaldata.pt/products/ST1000DM010.jpg?auto=compress%2Cformat&fit=fill&fill-color=fff&q=70&fill=solid&w=442&h=442"
+},{
+  "_id": {
+    "$oid": "60f5db9dfffa3e043269f179"
+  },
+  "nome": "Disco Seagate IronWolf Pro 16TB 7200pm 256MB SATA III",
+  "descricao": "O IronWolf Health Management (IHM) aprimora a confiabilidade geral do sistema ao exibir opções úteis de prevenção, intervenção e recuperação. Quando os discos rígidos IronWolf Pro são integrados a sistemas NAS compatíveis, a confiabilidade geral do sistema aumenta devido ao monitoramento constante e aos alertas para o utilizador.",
+  "especificacoes": "Capacidade : 14TB | InterfaceSATA: 6Gb/s | Tamanho : 3.5’ | Velocidade : 72OOrpm",
+  "tipo": "hdd",
+  "quantidade": 20,
+  "preco": 718.99,
+  "imageURL": "https://img.globaldata.pt/products/ST16000NE000.jpg?auto=compress%2Cformat&fit=fill&fill-color=fff&q=70&fill=solid&w=442&h=442"
+},{
+  "_id": {
+    "$oid": "60f5dca4fffa3e043269f17a"
+  },
+  "nome": "Disco SSD Western Digital Black 2TB SN850 Gen4 M.2 NVMe",
+  "descricao": "Prepare-se para a próxima evolução da velocidade com a WD_BLACK™ SN850 NVMe™ SSD, com a tecnologia suprema PCIe® Gen4 para o seu PC ou portátil, para que não se atrase na próxima geração de jogos.O SSD WD_BLACK™ SN850 NVMe™ atinge uma velocidade absurda de leitura até 7000MB/s e uma velocidade de escrita até 5300MB/s para o colocar no jogo mais rapidamente, com até 1.000.000 IOPS para uma experiência de jogo suave, ágil e poderosa.",
+  "especificacoes": "Capacidade : 2TB | Interface: PCIe Gen4 x4 | Tamanho: M.2 2280 | Velocidade de leitura sequencial : Até 7000MB/s | Velocidade de gravação sequencial : Até 5100MB/s",
+  "tipo": "ssd",
+  "quantidade": 20,
+  "preco": 528.99,
+  "imageURL": "https://img.globaldata.pt/products/WDS200T1X0E.jpg?auto=compress%2Cformat&fit=fill&fill-color=fff&q=70&fill=solid&w=442&h=442"
+},{
+  "_id": {
+    "$oid": "60f5ded1fffa3e043269f17b"
+  },
+  "nome": "Disco SSD Kingston KC600 512GB 3D Sata III",
+  "descricao": "O KC600 da Kingston é um SSD com capacidade total desenvolvido para fornecer desempenho notável e otimizado para fornecer capacidade de resposta do sistema funcional com incríveis tempos de inicialização, carregamento e transferência. Ele vem em um formato de 2,5 ” usando a interface SATA Rev 3.0 com compatibilidade com versões anteriores. O KC600 utiliza a mais recente tecnologia 3D TLC NAND, oferecendo suporte a um conjunto de segurança completa que inclui criptografia de hardware AES de 256 bits, TCG Opal e eDrive. Possui velocidades de leitura / gravação de até 550 / 520MB/s para armazenar com eficiência seus dados até 2 TB. Está disponível em um kit de pacote que fornece tudo o que precisa para uma instalação e atualização fácil de desktop e portátil.",
+  "especificacoes": "Capacidade : 512GB | InterfaceSATA: III | Tamanho: 2.5' | Velocidade de leitura sequencial : Até 550MB/s | Velocidade de gravação sequencial : Até 520MB/s",
+  "tipo": "ssd",
+  "quantidade": 20,
+  "preco": 73.99,
+  "imageURL": "https://img.globaldata.pt/products/SKC600_512G_2F512G.jpg?auto=compress%2Cformat&fit=fill&fill-color=fff&q=70&fill=solid&w=442&h=442"
+},{
+  "_id": {
+    "$oid": "60f5e046fffa3e043269f17c"
+  },
+  "nome": "Processador Intel Core i9-10920X 12-Core 3.5GHz c/ Turbo 4.6GHz 19.25MB Skt2066",
+  "descricao": "A família de processadores Intel® Core™ série X foi criada para se adaptar às suas necessidades de criação de conteúdo, para as mais extremas exigências. Usufrua de um desempenho extremo, recursos visuais imersivos em 4K, armazenamento em alta velocidade e memória DDR4 e os mais recentes avanços tecnológicos, todos projetados para que você projete a sua obra-prima mais rapidamente do que nunca. A tecnologia Intel® Turbo Boost Max 3.0 otimiza o desempenho das threads, identificando os dois núcleos mais rápidos do seu processador e direcionando as suas cargas de trabalho mais críticas para eles. Ele também vem pronto para instalar a memória Intel® Optane™ e os SSDs Intel® Optane™ para uma incrível capacidade de resposta do sistema.",
+  "especificacoes": "12 Núcleos | 24 Threads | 3.5GHz Clock Base | 4.6GHz Clock Turbo | 19.25MB Cache | TDP 165W.",
+  "tipo": "processador",
+  "quantidade": 20,
+  "preco": 629.99,
+  "imageURL": "https://static.pcdiga.com/media/catalog/product/cache/7800e686cb8ccc75494e29411e232323/3/1/3111252-l-a_1_1.jpg"
+},{
+  "_id": {
+    "$oid": "60f5e0cafffa3e043269f17d"
+  },
+  "nome": "Processador Intel Pentium Gold G6405 2-Core 4.1GHz 4MB Skt1200",
+  "descricao": "Os processadores Intel Pentium da 10ª geração oferecem atualizações de desempenho incríveis, para melhorar a produtividade e proporcionar entretenimento surpreendente, com clocks poderosos, otimização inteligente de sistema e muito mais.",
+  "especificacoes": "Intel UHD Graphics 610 | 2 Núcleos | 4 Threads | 4.10GHz Clock | 4MB Cache | TDP 58W.",
+  "tipo": "processador",
+  "quantidade": 20,
+  "preco": 59.95,
+  "imageURL": "https://static.pcdiga.com/media/catalog/product/cache/7800e686cb8ccc75494e29411e232323/p/r/product-p013425-57052_1_1_4.jpg"
+},{
+  "_id": {
+    "$oid": "60f5e12afffa3e043269f17e"
+  },
+  "nome": "Processador Intel Core i3-10100 4-Core 3.6GHz c/ Turbo 4.3GHz 6MB Skt1200",
+  "descricao": "Os processadores Intel Core da 10ª geração oferecem atualizações de desempenho incríveis, para melhorar a produtividade e proporcionar entretenimento surpreendente, com clocks poderosos, otimização inteligente de sistema e muito mais.",
+  "especificacoes": "Intel UHD Graphics 630 | 4 Núcleos | 8 Threads | 3.6GHz Clock Base | 4.3GHz Clock Turbo | 6MB Cache | TDP 65W.",
+  "tipo": "processador",
+  "quantidade": 20,
+  "preco": 137.99,
+  "imageURL": "https://static.pcdiga.com/media/catalog/product/cache/7800e686cb8ccc75494e29411e232323/i/3/i310.jpg"
+},{
+  "_id": {
+    "$oid": "60f5e179fffa3e043269f17f"
+  },
+  "nome": "Disco SSD Samsung 860 QVO 1TB SATA III",
+  "descricao": "Com velocidades até 550 MB/s de leitura e 520 MB/s de escrita, dê ao seu computador uma nova vida, com rápidas velocidades de arranque, transferências e elevada resposta por parte das aplicações. Através do Intelligent TurboWrite, acelere as velocidades de escrita e mantenha um elevado desempenho a longo termo.O SSD 860 QVO oferece uma grande capacidade de armazenamento, com desempenho sólido e confiabilidade excepcional. Este avanço foi alcançado com a mais recente tecnologia flash MLC V-NAND de 4 bits da Samsung. Está na hora de atualizar para o mais rápido SSD.",
+  "especificacoes": "Capacidade : 1TB | InterfaceSATA: 6Gb/s | Tamanho: 2.5' | Velocidade de leitura sequencial : Até 550MB/s | Velocidade de gravação sequencial : Até 520MB/s",
+  "tipo": "ssd",
+  "quantidade": 20,
+  "preco": 129.99,
+  "imageURL": "https://img.globaldata.pt/products/MZ-76Q1T0BW.png?auto=compress%2Cformat&fit=fill&fill-color=fff&q=70&fill=solid&w=442&h=442"
+},{
+  "_id": {
+    "$oid": "60f5e17dfffa3e043269f180"
+  },
+  "nome": "Processador Intel Core i5-9600KF Hexa-Core 3.7GHz c/ Turbo 4.6GHz 9MB Skt1151",
+  "descricao": "Usufrua de desempenho excepcional, entretenimento imersivo e conveniência simples com os processadores Intel Core da 9ª Geração. O processador i5 9600KF amplia todos os recursos que os utilizadores adoram nos CPUs da geração anterior com inovações ainda mais avançadas que oferecem novos níveis de desempenho que o colocam no seu computador em vários formatos. O i5 9600KF apresenta todas as mais recentes tecnologias da Intel para permitir que você tenha a melhor experiência em computação, e este CPU em particular é desbloqueado, permitindo que você faça overclock para capacidade adicional em jogos ou de produção.",
+  "especificacoes": "6 Núcleos | 6 Threads | 3.7GHz Clock Base | 4.6GHz Clock Turbo | 9MB Cache | TDP 95W.",
+  "tipo": "processador",
+  "quantidade": 20,
+  "preco": 159.95,
+  "imageURL": "https://static.pcdiga.com/media/catalog/product/cache/7800e686cb8ccc75494e29411e232323/p/r/product-p018488-63625_1.jpg"
+},{
+  "_id": {
+    "$oid": "60f5e1eafffa3e043269f181"
+  },
+  "nome": "Processador Intel Core i7-7740X Quad-Core 4.3GHz c/ Turbo 4.5GHz 8MB Skt2066",
+  "descricao": "Se você está a trabalhar no seu último filme ou no próximo episódio de uma série do YouTube, os processadores desbloqueados Intel® Core™ Série X foram projetados para dimensionar as suas necessidades de desempenho usando núcleos mais rápidos em frequências mais altas e com vários núcleos para quando é necessário uma mega tarefa extrema. Usufrua de performances extremas, visuais imersivos em 4K, armazenamento e memória de alta velocidade e os avanços tecnológicos mais recentes - todos projetados para levá-lo do planeamento ao produto final mais rápido do que nunca.",
+  "especificacoes": "4 Núcleos | 8 Threads | 4.3GHz Clock Base | 4.5GHz Clock Turbo | 8MB Cache | TDP 112W.",
+  "tipo": "processador",
+  "quantidade": 20,
+  "preco": 179.95,
+  "imageURL": "https://static.pcdiga.com/media/catalog/product/cache/7800e686cb8ccc75494e29411e232323/p/r/product-p009483-5457_1.jpg"
+},{
+  "_id": {
+    "$oid": "60f5e37cfffa3e043269f182"
+  },
+  "nome": "Disco SSD Team Group T-Force Delta RGB 250GB SATA III",
+  "descricao": "O T-FORCE DELTA RGB SSD possui a maior área DE iluminação RGB do setor com uma relação de 5:3. Os jogadores podem personalizar a sua própria iluminação. Não importa a escolha, será incrível! O SSD T-FORCE DELTA RGB é o primeiro SSD RGB com efeito de luz de fluxo de água. Os efeitos de luz podem ser sincronizados com a motherboard e também apresentam misturas magníficas para maximizar a variedade de cor.",
+  "especificacoes": "Capacidade : 250GB | InterfaceSATA: SATA III 6Gb/s | Tamanho: 2.5' | Velocidade de leitura sequencial : Até 560MB/s | Velocidade de gravação sequencial : Até 500MB/s",
+  "tipo": "ssd",
+  "quantidade": 20,
+  "preco": 54.99,
+  "imageURL": "https://img.globaldata.pt/products/T253TR250G3C313.jpg?auto=compress%2Cformat&fit=fill&fill-color=fff&q=70&fill=solid&w=442&h=442"
+},{
+  "_id": {
+    "$oid": "60f5e436fffa3e043269f183"
+  },
+  "nome": "Disco Rígido 3.5' Western Digital Purple 2TB 5400RPM 64MB SATA III",
+  "descricao": "Construídos para sistemas de segurança de alta definição de funcionamento contínuo. Com suporte para até 8 compartimentos para unidades de disco rígido e 64 câmaras, as unidades WD Purple são otimizadas para vigilância.",
+  "especificacoes": "2 TB de capacidade | Interface: SATA 6 Gb/s (compatível com anteriores) | Formato: 3.5 polegadas | Buffer para host: 6 Gb/s | Host para/desde drive (mantido): até 145 MB/s | Cache: 64 MB | Velocidade de Rotação: 5400 RPM IntelliPower | Requisitos médios de energia - Leitura/gravação: 4,4 W; Idle: 4,1 W; Standby: 0,4 W | Dimensões Físicas: 26,1 mm (Altura) x 147 mm (Comprimento) x 101,6 mm (Largura).",
+  "tipo": "hdd",
+  "quantidade": 20,
+  "preco": 72.95,
+  "imageURL": "https://static.pcdiga.com/media/catalog/product/cache/7800e686cb8ccc75494e29411e232323/8/9/898_1.jpg"
+},{
+  "_id": {
+    "$oid": "60f5e489fffa3e043269f184"
+  },
+  "nome": "Disco Rígido 3.5' Western Digital Black 6TB 7200RPM 256MB SATA III",
+  "descricao": "As unidades de disco rígido WD Black são projetadas para PCs desktop e utilizadores que procuram desempenho, com uma variedade de opções de upgrade disponíveis. Ajustado para desempenho e perfeito para jogos. As unidades WD Black oferecem grandes capacidades para o armazenamento da sua crescente biblioteca de jogos.",
+  "especificacoes": "6 TB | SATA 6Gb/s (compatível com anteriores) | 3.5 polegadas | Taxa de transferência de dados - Buffer para host: 6 Gb/s; Velocidade máx: 227 MB/s | 256 MB de cache | 7200 RPM | 9,1 W em leitura/gravação | 7,1 W em Idle | 1,0 W em Standby | Dimensões Físicas: 26,1 mm (Altura) x 147 mm (Comprimento) x 101,6 mm (Largura).",
+  "tipo": "hdd",
+  "quantidade": 20,
+  "preco": 269.95,
+  "imageURL": "https://static.pcdiga.com/media/catalog/product/cache/7800e686cb8ccc75494e29411e232323/w/d/wd-black-hdd-1tb-western-digital_1.jpg"
+},{
+  "_id": {
+    "$oid": "60f5e4d2fffa3e043269f185"
+  },
+  "nome": "Disco Rígido 3.5' Western Digital Gold 8TB 7200RPM 256MB SATA III",
+  "descricao": "Apresentando até dez vezes a capacidade de carga de unidades desktop, os discos rígidos WD Gold™ são projetados desde o início para terem fiabilidade, capacidade, eficiência energética e desempenho de classe empresarial. Fornecendo desempenho fiável para qualquer ambiente de armazenamento, as unidades de disco rígido WD Gold são projetadas com uma carga de trabalho nominal de até 550 TB por ano, entre as mais altas para unidades de disco rígido de 3,5 polegadas. Com até 2,5 milhões de horas de MTBF, as unidades WD Gold oferecem um dos mais altos níveis de fiabilidade e durabilidade para um funcionamento ininterrupto (24x7x365) nos ambientes de armazenamento mais exigentes, e têm o apoio de uma garantia limitada de 5 anos.",
+  "especificacoes": "8 TB | SATA 6 Gb/s (compatível com anteriores) | 3.5 polegadas | Taxa de transferência de dados - Buffer para host: 6 Gb/s; Host para/desde drive (mantido): até 255 MB/s | 256 MB de cache | 7200 RPM | 8.8 W em leitura/gravação | 7,4 W em Idle | 0,9 W em Standby  | Dimensões Físicas: 26,1 mm (Altura) x 147 mm (Comprimento) x 101,6 mm (Largura).",
+  "tipo": "hdd",
+  "quantidade": 20,
+  "preco": 309.95,
+  "imageURL": "https://cdn.cnetcontent.com/syndication/feeds/wd/inline-content/2A/177777E6AC3C85853A795D2984A7AFD6AE132E6C_WDGOLD8TB_gallery.png"
+},{
+  "_id": {
+    "$oid": "60f5e517fffa3e043269f186"
+  },
+  "nome": "Disco SSD Gigabyte Aorus 1TB Gen4 M.2 NVMe",
+  "descricao": "O primeiro controlador PCIe 4.0x4 do mundo, controlador Phison PS5016-E16, feito pela tecnologia de fabricação 28nm. O avançado processo de fabricação garante que o PS5016-E16 tenha potência de computação suficiente para o processamento de ECC ao adotar o último flash NAND 3D TLC. O PS5016-E16 também possui oito canais NAND com alvos de 32 CE, armazenamento em cache DDR4 DRAM e uma interface PCIe 4.0x4. Quanto aos recursos, o chip suporta o protocolo NVMe 1.3, a correção de erros LDPC e as tecnologias de Over-Provisionamento de Nivelamento de Uso para melhorar a confiabilidade e a durabilidade dos SSDs.",
+  "especificacoes": "Capacidade : 1TB | Interface: PCI-Express 4.0x4, NVMe 1.3 | Tamanho: M.2 2280 | Velocidade de leitura sequencial : Até 5000MB/s | Velocidade de gravação sequencial : Até 4600MB/s",
+  "tipo": "ssd",
+  "quantidade": 20,
+  "preco": 199.99,
+  "imageURL": "https://img.globaldata.pt/products/GP-ASM2NE6100T.jpg?auto=compress%2Cformat&fit=fill&fill-color=fff&q=70&fill=solid&w=442&h=442"
+},{
+  "_id": {
+    "$oid": "60f5e528fffa3e043269f187"
+  },
+  "nome": "Disco Rígido 3.5' Seagate Enterprise Exos 7E2 2TB 512n 7200RPM 128MB SATA 6 Gb/s",
+  "descricao": "Para todas as necessidades de armazenamento corporativo, há o Exos E: a forma mais segura e poderosa de percorrer a esfera de dados e aproveitar todo o seu potencial. Sempre ativa e sempre em funcionamento, a série Exos E de discos rígidos oferece inúmeras opções avançadas para proporcionar níveis ideais de desempenho, fiabilidade, segurança e gestão de armazenamento definido pelo utilizador. Desenvolvido com base em gerações de inovações que definiram o setor, o Exos E fornece funcionamento e desempenho consistentes em cargas de trabalho de classe corporativa. Os discos rígidos corporativos Seagate® Exos™ 7E2 foram desenvolvidos especificamente para atender à necessidade de armazenar dados não estruturados de forma económica. O formato tradicional 512 nativo com interface SATA de 6 Gb/s garante a fácil integração a servidores e sistemas de armazenamento legados.",
+  "especificacoes": "2 TB de capacidade | 3.5 polegadas | Interface SATA 6 Gb/s | 128 MB de cache | 7200 RPM | Taxa máxima de transferência sustentada: Até 194 MB/s | Consumo energético: 7,0 W (operação típica) / 4,7 W (idle) | Dimensões do produto: 26,1 mm (Altura) x 101,85 mm (Comprimento) x 147 mm (Largura).",
+  "tipo": "hdd",
+  "quantidade": 20,
+  "preco": 119.95,
+  "imageURL": "https://static.pcdiga.com/media/catalog/product/cache/7800e686cb8ccc75494e29411e232323/3/1/3148070-l-b_3.jpg"
+},{
+  "_id": {
+    "$oid": "60f5e57ffffa3e043269f188"
+  },
+  "nome": "Disco Rígido 3.5' Western Digital Red Pro 10TB 7200RPM 256MB SATA III",
+  "descricao": "Equipe o seu NAS maior com discos rígidos WD Red Pro para acompanhar a velocidade dos seus negócios e integrar com facilidade com a sua infraestrutura de rede existente. Agregue valor aos seus negócios permitindo que os funcionários compartilhem arquivos rapidamente e façam backup de pastas com toda a confiança usando discos rígidos para NAS WD Red Pro. Para ambientes NAS de média e grande dimensão com até 16 compartimentos, a unidade WD Red Pro é projetada para suportar as cargas de trabalho crescentes dos negócios.",
+  "especificacoes": "Capacidade: 10 TB | Interface: SATA 6 Gb/s (compatível com anteriores) | Formato: 3.5 polegadas | Taxa de transferência de dados - Buffer para host: 6 Gb/s; Host para/desde drive (mantido): até 265 MB/s | Cache: 256 MB | Velocidade de Rotação: 7200 RPM | Requisitos médios de energia - Leitura/gravação: 8,4 W; Idle: 4,6 W; Standby: 0,5 W | Dimensões Físicas: 26,1 mm (Altura) x 147 mm (Comprimento) x 101,6 mm (Largura).",
+  "tipo": "hdd",
+  "quantidade": 20,
+  "preco": 479.95,
+  "imageURL": "https://static.pcdiga.com/media/catalog/product/cache/7800e686cb8ccc75494e29411e232323/w/d/wd-red-pro-blank_3_1_1_1.jpg"
+},{
+  "_id": {
+    "$oid": "60f5e621fffa3e043269f189"
+  },
+  "nome": "SSD M.2 2280 Western Digital Blue 250GB 3D NAND SATA",
+  "descricao": "O SSD SATA 3D NAND WD Blue™ utiliza a tecnologia 3D NAND da Western Digital para grandes capacidades com maior fiabilidade. Apresentando um consumo de energia quando ativo até 25% menor que as gerações anteriores de SSDs WD Blue, você poderá trabalhar por mais tempo antes de recarregar o seu laptop, enquanto as velocidades de leitura sequencial de até 560 MB/s e de gravação sequencial de até 530 MB/s dão a velocidade que você deseja para as suas aplicações. Combinado com o WD SSD Dashboard gratuito para download, você pode fazer o upgrade do seu sistema para o SSD SATA 3D NAND WD Blue.",
+  "especificacoes": "550 MB/s Leitura | 525 MB/s Escrita | 95,000 IOPS Leitura | 81,000 IOPS Escrita | SATA 6 Gb/s | 250 GB de armazenamento.",
+  "tipo": "ssd",
+  "quantidade": 20,
+  "preco": 39.95,
+  "imageURL": "https://static.pcdiga.com/media/catalog/product/cache/7800e686cb8ccc75494e29411e232323/p/r/product-p010641-24566.jpg"
+},{
+  "_id": {
+    "$oid": "60f5e6c7fffa3e043269f18a"
+  },
+  "nome": "SSD 2.5' Crucial MX500 2TB 3D TLC SATA",
+  "descricao": "Sempre que ligar o computador, você está a usar o seu disco de armazenamento. Mantenha todos os seus arquivos insubstituíveis e carregue e economize quase tudo o que o seu sistema faz. Junte-se a um grupo crescente de pessoas que mantêm os seus vídeos familiares, fotos de viagem, música e documentos importantes num SSD, e obtenha o desempenho quase instantâneo e a fiabilidade permanente que o armazenamento de estado sólido fornece. Atualize para o SSD Crucial® MX500, um SSD baseado em qualidade, velocidade e segurança.",
+  "especificacoes": "560 MB/s Leitura | 510 MB/s Escrita | 95,000 IOPS Leitura | 90,000 IOPS Escrita | SATA 6 Gb/s | 2 TB de armazenamento.",
+  "tipo": "ssd",
+  "quantidade": 20,
+  "preco": 269.95,
+  "imageURL": "https://static.pcdiga.com/media/catalog/product/cache/7800e686cb8ccc75494e29411e232323/p/r/product-p013246-27770_8.jpg"
+},{
+  "_id": {
+    "$oid": "60f5e751fffa3e043269f18b"
+  },
+  "nome": "SSD 2.5' Samsung 860 QVO 2TB MLC V-NAND SATA",
+  "descricao": "Capacidade de terabyte mais acessível. O 860 QVO SSD oferece enorme capacidade de armazenamento, com desempenho e fiabilidade sólidos com valor excepcional. Este avanço foi alcançado com a mais recente tecnologia de flash MLC NAND de 4 bits da Samsung. Agora está na hora de atualizar ou expandir para o SSD rápido que você precisa. Acelere tudo. Até 550 MB/s de leitura e 520 MB/s de gravação dão a experiência de um novo computador com inicialização rápida, rápidas transferências e capacidade de resposta de aplicativos. O TurboWrite inteligente acelera as velocidades de gravação e mantém um alto desempenho de longo prazo com um buffer variável maior.",
+  "especificacoes": "550 MB/s Leitura | 520 MB/s Escrita | 97,000 IOPS Leitura | 89,000 IOPS Escrita | SATA 6 Gb/s | 2 TB de armazenamento.",
+  "tipo": "ssd",
+  "quantidade": 20,
+  "preco": 249.95,
+  "imageURL": "https://static.pcdiga.com/media/catalog/product/cache/7800e686cb8ccc75494e29411e232323/p/r/product-p017877-50624.jpg"
+},{
+  "_id": {
+    "$oid": "60f5e7befffa3e043269f18c"
+  },
+  "nome": "SSD M.2 2280 Western Digital Blue SN550 500GB 3D NAND NVMe",
+  "descricao": "Ponha o poder do NVMe™ no coração do seu PC para obter um desempenho rápido como um raio, com altíssima capacidade de resposta. O WD Blue™ SN550 NVMe™ pode fornecer mais de 4 vezes a velocidade dos melhores SSDs SATA. Quer você esteja a trabalhar, criar, divertir-se jogando ou processando grandes quantidades de dados, aproveite as altas velocidades desta poderosa unidade interna para fazer mais com mais rapidez. O NVMe™ acompanha uma poderosa solução e económica solução de armazenamento que agrega à fiabilidade de um SSD.",
+  "especificacoes": "2,400 MB/s Leitura | 1,750 MB/s Escrita | 300,000 IOPS Leitura | 240,000 IOPS Escrita | PCIe 3.0 x4, NVMe 1.3 | 500 GB de armazenamento.",
+  "tipo": "ssd",
+  "quantidade": 20,
+  "preco": 64.95,
+  "imageURL": "https://static.pcdiga.com/media/catalog/product/cache/7800e686cb8ccc75494e29411e232323/l/d/ld0005547181_2_1.jpg"
+},{
+  "_id": {
+    "$oid": "60f5e869fffa3e043269f18d"
+  },
+  "nome": "SSD 2.5' Toshiba OCZ VX500 1TB MLC SATA",
+  "descricao": "Projetado para desktops convencionais e notebooks, os SSDs Toshiba OCZ VX500 fornecem uma computação, jogos e experiência de utilização mais rápida, mais ágil em comparação com os tradicionais discos rígidos (HDDs). Priorizando a endurance do armazenamento, a série VX500 baseada em flash NAND MLC da Toshiba é adequada para utilizadores em ambientes de intensa gravação de dados. Discos rígidos mecânicos limitam a velocidade do sistema e privam os utilizadores de usufruir de todo o potencial do seu notebook ou desktop. Os SSDs Toshiba OCZ VX500 são uma maneira rápida e simples de atualizar o desempenho do seu PC.",
+  "especificacoes": "550 MB/s Leitura | 515 MB/s Escrita | 92,000 IOPS Leitura | 65,000 IOPS Escrita | SATA 6 Gb/s | 1 TB de armazenamento.",
+  "tipo": "ssd",
+  "quantidade": 20,
+  "preco": 149.95,
+  "imageURL": "https://static.pcdiga.com/media/catalog/product/cache/7800e686cb8ccc75494e29411e232323/p/r/product-p005217-15682_2.jpg"
+},{
+  "_id": {
+    "$oid": "60f5e9bafffa3e043269f18e"
+  },
+  "nome": "Headphones JBL Tune 600BTNC Bluetooth Azuis",
+  "descricao": "Apresentando os headphones sem fios JBL TUNE600BTNC com cancelamento de ruído activo, uma solução compacta e leve para utilização diária. Os JBL TUNE600BTNC possuem drivers JBL de 32mm que ajudam a fornecer som JBL Pure Bass. Som que pode ser desfrutado sem ruído desnecessário por mais de 12 horas sem fio e pode ser totalmente recarregado em apenas 2 horas. E graças ao cabo destacável adicional, a música pode ser desfrutada infinitamente no modo com fio, com ou sem Cancelamento de Ruído Ativo. Feito com materiais duráveis e projetado em quatro cores frescas, os JBL TUNE600BTNC permitem que você conecte-se ao seu mundo rapidamente graças aos botões nos fones que permitem uma gestão fácil de mãos-livres de chamadas e música.",
+  "especificacoes": "Drivers: 32 mm | Resposta de frequência: 20Hz – 20kHz | Impedância: 32 | omhsConexão: Bluetooth 4.1 | Tempo de carregamento: 2 horas | Autonomia com ANC ligado: Até 12 horas | Autonomia com ANC desligado: Até 22 horas | Tipo de bateria: Polímero de Lítio-ion | Comprimento do cabo: 1.2 metros | Peso do produto: 173 g.",
+  "tipo": "headphone",
+  "quantidade": 20,
+  "preco": 99.95,
+  "imageURL": "https://static.pcdiga.com/media/catalog/product/cache/7800e686cb8ccc75494e29411e232323/p/r/product-p018469-63290_1.jpg"
+},{
+  "_id": {
+    "$oid": "60f5ea72fffa3e043269f18f"
+  },
+  "nome": "Headphones Sony XB550AP Extra Bass Vermelhos",
+  "descricao": "Deixe a música fluir através de si com a potência do EXTRA BASS™. Escolha entre cinco cores vivas para melhor combinar com o seu estilo. Passe de música para chamadas com o toque de um botão com um telecomando e microfone integrados. Deixe-se envolver por graves potentes e exuberantes. O EXTRA BASS intensifica todas as suas frequências baixas para obter um som empolgante e profundo.",
+  "especificacoes": "Tipo de auscultadores: Dinâmicos e fechados | Diafragma: 30mm (tipo cúpula) | Sensibilidade: 102 dB/mW | Magneto: Neodímio | Impedância: 24 ohm (1 KHz) | Resposta de frequência: 5 Hz-22 000 Hz | Ficha: Minificha de 4 polos em forma de L e com banho de ouro | Comprimento do cabo: 1,2 metros |Peso do produto: Aprox. 180 g.",
+  "tipo": "headphone",
+  "quantidade": 20,
+  "preco": 34.95,
+  "imageURL": "https://static.pcdiga.com/media/catalog/product/cache/7800e686cb8ccc75494e29411e232323/1/4/1487064013_1317727.jpg"
+},{
+  "_id": {
+    "$oid": "60f5eb13fffa3e043269f190"
+  },
+  "nome": "Headset Steelseries Arctic 7P Wireless Gaming PS5/PS4/PC Branco",
+  "descricao": "Usufrua da próxima geração de áudio sem fio, duração da bateria, conforto e versatilidade na PS5, PS4 e muito mais. A melhor vida útil da bateria com 24 horas de uso sem fio ininterrupto, para que você possa jogar o dia todo e a noite com uma única carga. Jogue em qualquer lugar com o dongle USB-C compacto para uma transição perfeita entre PlayStation 5, PS4, PC, Android e Nintendo Switch. Com os mesmos drivers de alta qualidade do Arctis 7, o Arctis 7P enfatiza sons sutis para dar a si uma vantagem de áudio nos seus jogos favoritos de próxima geração e é totalmente compatível com Tempest 3D AudioTech da PlayStation 5.",
+  "especificacoes": "Drivers: 40mm | Resposta de frequência: 20–20000 Hz | Sensibilidade: 98 dBSPL | Impedância: 32 Ohm | Distorção Harmónica Total: < 3% | Conectividade: Wireless RF 2.4GHz | Autonomia: Até 24 horas | Alcance: Até 12 metros",
+  "tipo": "headphone",
+  "quantidade": 20,
+  "preco": 179.95,
+  "imageURL": "https://static.pcdiga.com/media/catalog/product/cache/7800e686cb8ccc75494e29411e232323/2/_/2_p034888_2_.jpg"
+},{
+  "_id": {
+    "$oid": "60f5ec09fffa3e043269f191"
+  },
+  "nome": "Headphones Bang & Olufsen Beoplay Portal Active Noise Cancelling Wireless Gaming Grey Mist",
+  "descricao": "Melhore a sua experiência de jogo com som de precisão, ANC adaptável, microfone inovador com tecnologia beamforming e conforto duradouro. Beoplay Portal são headphones poderosos e confortáveis, feitos para se encaixar harmoniosamente na sua vida - seja a jogar, ouvir música ou em chamadas telefónicas. Conecte-se sem fios ao seu PC para falar, interagir e ouvir música durante o horário de expediente, atender chamadas no telefone e, em seguida, entrar numa experiência de jogo completa com conectividade Xbox perfeita na hora de relaxar.",
+  "especificacoes": "Faixa de frequência: 20 - 22.000 Hz | Especificações avançadas de som - Cancelamento de ruído ativo adaptativo; Modo de transparência; Dolby Atmos para headphones | Tipo de driver: Driver eletrodinâmico com ímãs de neodímio, 40 mm de diâmetro | Driver de Sensibilidade: 95dB @ 1kHz / 1 mW | Impedância: 24 Ohm +/- 15% | EQ de som personalizável: Predefinições disponíveis e totalmente personalizáveis ​​através da App Bang & Olufsen",
+  "tipo": "headphone",
+  "quantidade": 20,
+  "preco": 499,
+  "imageURL": "https://static.pcdiga.com/media/catalog/product/cache/7800e686cb8ccc75494e29411e232323/p/o/portal_grey_1_copy.jpg"
+},{
+  "_id": {
+    "$oid": "60f5ec84fffa3e043269f192"
+  },
+  "nome": "Gráfica MSI GeForce® RTX 3080 Ti 12G OC",
+  "descricao": "A nova arquitetura Ampere da NVIDIA proporciona a derradeira jogabilidade, com avançados Núcleos Ray Tracing de 2 geração e Núcleos Tensor de 3 geração com maior rendimento.",
+  "especificacoes": "Memória de Vídeo:12GB GDDR6X | Velocidade Boost Clock: 1695 MHz | CUDA cores: 10240 unidades | Velocidade de Memória: 19 Gbps",
+  "tipo": "placa-grafica",
+  "quantidade": 20,
+  "preco": 1499.99,
+  "imageURL": "https://img.globaldata.pt/products/4719072821364.jpg?auto=compress%2Cformat&fit=fill&fill-color=fff&q=70&fill=solid&w=442&h=442"
+},{
+  "_id": {
+    "$oid": "60f5ecbefffa3e043269f193"
+  },
+  "nome": "Headset Razer Opus THX Wireless Preto",
+  "descricao": "Apresentamos os headphones sem fio com Certificação THX® equipado com tecnologia avançada de cancelamento ativo de ruídos (ANC). Vivencie um som puro em alta fidelidade com zero distrações para todas as suas formas de entretenimento onde quer que você vá. Para um som de alta fidelidade. Testado e otimizado por especialistas em imersão de áudio cinematográfico na THX Ltd., o headset apresenta um ambiente sonoro rico e equilibrado para todos os seus filmes, músicas e jogos. Para uma experiência ininterrupta de áudio onde quer que você esteja. Não importa se você está a assistir a um filme ou a desfrutar da sua música preferida, deixe todas as distrações do lado de fora com uma tecnologia avançada de ANC que detecta e anula todos os ruídos de entrada.",
+  "especificacoes": "Drivers: 2 drivers dinâmicos de 40 mm | Peso: 265 g | Resposta de frequência: 20 Hz - 20 kHz | Microfones: 4 para tecnologia híbrida de Cancelamento ativo de ruídos, 2 para bate-papo de voz | Estilo de utilização: Circumaural | Duração da bateria: Até 25 horas | Versão BT: 4.2 | Codecs: AAC & APTX, 4.2, A2DP, AVRCP, HFP.",
+  "tipo": "headphone",
+  "quantidade": 20,
+  "preco": 209.95,
+  "imageURL": "https://static.pcdiga.com/media/catalog/product/cache/7800e686cb8ccc75494e29411e232323/1/_/1_p031565.jpg"
+},{
+  "_id": {
+    "$oid": "60f5ee93fffa3e043269f194"
+  },
+  "nome": "Teclado Corsair K55 RGB PT",
+  "descricao": "Modos de luz de fundo RGB intuitivos, seis teclas de macro dedicadas, anti-ghosting de várias teclas e controlos multimédia fornecem a personalização e o controlo essenciais para a vitória. O K55 RGB é o primeiro passo rumo a um melhor desempenho. Os 10 modos de iluminação RGB luminosos permitem escolher entre luzes de fundo estáticas multicoloridas ou efeitos de luzes imersivos. Atribua toques de teclas simples ou combinações complexas de várias teclas a qualquer uma das seis teclas de macro dedicadas, rapidamente, sem instalar softwares adicionais.",
+  "especificacoes": "Fabricante: Corsair | Estado do Produto: Promoção | Campanha: Promoção Corsair | Tipo de conexão: Com Fio (Wired) | Layout Teclado: PT-PT - ISO | Teclado Númerico: Sim | Retroiluminado: Sim | Tipo de Teclas: Membrana",
+  "tipo": "teclado",
+  "quantidade": 20,
+  "preco": 59.95,
+  "imageURL": "https://img.globaldata.pt/products/CH-9206015-PT_1.png?auto=compress%2Cformat&fit=fill&fill-color=fff&q=70&fill=solid&w=442&h=442"
+},{
+  "_id": {
+    "$oid": "60f5ef22fffa3e043269f195"
+  },
+  "nome": "Gráfica Gigabyte GeForce® GTX 1050 TI OC LP 4GB GD5",
+  "descricao": "O design low profile com 167mm de comprimento poupa mais espaços e cabe num sistema mais mais pequeno.Com um simples clique no utilitário, os jogadores podem facilmente configurar a placa gráfica para satisfazer os seus vários requisitos de jogo sem qualquer conhecimento de overclocking, ao mesmo tempo poupam o incómodo do ajuste manual.Os MOSFETs RDS(on) mais baixos são especialmente concebidos para produzir uma menor resistência à comutação para uma carga e descarga de corrente elétrica mais rápida a temperaturas extremamente baixas.",
+  "especificacoes": "Memória de Vídeo: 4GB | Velocidade Boost Clock: 1442 MHz | CUDA cores: 768 unidades",
+  "tipo": "placa-grafica",
+  "quantidade": 20,
+  "preco": 249.99,
+  "imageURL": "https://img.globaldata.pt/products/GV-N105TOC-4GL.png?auto=compress%2Cformat&fit=fill&fill-color=fff&q=70&fill=solid&w=442&h=442"
+},{
+  "_id": {
+    "$oid": "60f5ef2afffa3e043269f196"
+  },
+  "nome": "Teclado Razer Huntsman Tournament Edition US",
+  "descricao": "Quando uma fração de segundo pode significar a diferença entre vitória e derrota, a velocidade absoluta do Razer Huntsman Tournament Edition é o que separa os campeões de todos os outros. Projetado e testado pelos atletas da Team Razer, este teclado para jogos está equipado com os switches Razer mais rápidos que já projetados, para oferecer a vantagem necessária para você prosperar onde a competição é mais aguerrida. Com atuação óptica de 1,0 mm que é registada À velocidade da luz, não espere nada além de resposta instantânea a cada pressionamento de tecla, à medida que você reage e executa jogadas de grande velocidade. Testados para ter uma durabilidade líder da indústria de até 100 milhões de pressionamentos de tecla, os comutadores ópticos lineares Razer™ também estão bem equipados para suportar os rigores do treino e da competição.",
+  "especificacoes": "Layout: US - ISO | Interruptor óptico linear Razer™ com força de atuação de 40 G | Keycaps PBT Razer Doubleshot | Layout de linha inferior padrão | Fator de forma compacto | Cabo de fibra trançado USB-C destacável | Armazenamento on-line híbrido - até 5 perfis | Iluminação de fundo Razer Chroma com 16,8 milhões de opções de cores personalizáveis | Razer Synapse 3 Ready | Teclas totalmente programáveis com gravação macro on-the-fly | Rolagem de tecla N com anti-ghosting integrado | Opção de modo de jogo | Ultrapolling de 1000 Hz | Placa superior fosca de alumínio.",
+  "tipo": "teclado",
+  "quantidade": 20,
+  "preco": 149.95,
+  "imageURL": "https://img.globaldata.pt/products/RZ03-03080300-R3G1.jpg?auto=compress%2Cformat&fit=fill&fill-color=fff&q=70&fill=solid&w=442&h=442"
+},{
+  "_id": {
+    "$oid": "60f5efa9fffa3e043269f197"
+  },
+  "nome": "Teclado Apple Magic Keyboard Português",
+  "descricao": "O teclado Magic Keyboard combina um design novo e elegante com uma bateria recarregável integrada e novas funcionalidades. Com teclas mais estáveis e um melhor funcionamento graças ao mecanismo em tesoura e ao perfil mais baixo, o Magic Keyboard permite escrever com toda a rapidez, comodidade e precisão. Associa-se automaticamente ao Mac, para começar logo a trabalhar. E a bateria é incrivelmente duradoura, com autonomia para cerca de um mês ou mais entre cargas.",
+  "especificacoes": "Layout: Português | Ligações e expansão: Bluetooth, Conetor Lightning, Sem fios",
+  "tipo": "teclado",
+  "quantidade": 20,
+  "preco": 99.95,
+  "imageURL": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MLA22PO?wid=4000&hei=1800&fmt=jpeg&qlt=95&.v=1498064366800"
+},{
+  "_id": {
+    "$oid": "60f5f03afffa3e043269f198"
+  },
+  "nome": "Gráfica PowerColor Radeon RX 6700 XT Fighter 12GB GD6",
+  "descricao": "AMD RDNA™ 2 arquitetura é a base da próxima geração de PCs e consolas gaming. É o elemento fundamental da próxima revolução nos gráficos de jogos para PC e nos jogos em cloud gaming. AMD RDNA™ 2 eleva e unifica efeitos visuais e jogabilidade através de plataformas multi-gaming, como nenhuma outra arquitetura gráfica anterior.",
+  "especificacoes": "Memória de Vídeo: 12GB GDDR6 | Velocidade Boost Clock: 2581 Mhz | Velocidade de base: 2321 MHz",
+  "tipo": "placa-grafica",
+  "quantidade": 20,
+  "preco": 729.99,
+  "imageURL": "https://img.globaldata.pt/products/RX6700XT12GFIGHTER.jpg?auto=compress%2Cformat&fit=fill&fill-color=fff&q=70&fill=solid&w=442&h=442"
+},{
+  "_id": {
+    "$oid": "60f5f03ffffa3e043269f199"
+  },
+  "nome": "Coluna Marshall Emberton Bluetooth Preta",
+  "descricao": "A Emberton é uma coluna portátil compacta com um som alto e vibrante que só o Marshall pode fornecer. A Emberton utiliza True Stereophonic, uma forma única de som multidirecional da Marshall. Usufrua de um som de 360° absoluto onde cada ponto é um ponto ideal. Com mais de 20 horas de autonomia de reprodução, você pode desfrutar do som superior da Marshall por horas a fio. Rico, claro e alto, como o artista pretendia. A Emberton utiliza True Stereophonic, uma forma única de som multidirecional da Marshall. Usufruade um som de 360° absoluto onde cada ponto é um ponto ideal.",
+  "especificacoes": "Resposta de frequência: 60 Hz – 20 kHz | Drivers: 2 x 10W | Nível de pressão sonora: 87 dB SPL @ 1 m | Potência de amplificadores: Dois amplificadores classe D de 10 W | Conectividade: Bluetooth 5.0 | Alcance sem fios: Até 10 metros | Autonomia: 20+ Horas | Tempo de carregamento: 3 horas para recarga completa / 20 minutos de carga dão 5 horas de tempo de reprodução | Resistência à àgua: IPX7 | Dimensões do produto: 68 x 160 x 76 mm | Peso do produto: 0.7 kg",
+  "tipo": "coluna",
+  "quantidade": 20,
+  "preco": 149.95,
+  "imageURL": "https://static.pcdiga.com/media/catalog/product/cache/7800e686cb8ccc75494e29411e232323/2/_/2_247_3.jpg"
+},{
+  "_id": {
+    "$oid": "60f5f12dfffa3e043269f19a"
+  },
+  "nome": "Coluna Portatil Gembird Bluetooth Vermelha",
+  "descricao": "Coluna Bluetooth Gembird, de design compacto e portátil. Perfeita para uso com o seu smartphone ou tablet. Também pode ser usada como kit de mãos livres bluetooth. Transmita a sua música sem fios com total liberdade. ",
+  "especificacoes": "Interface: Bluetooth v.5.0, perfil de viva-voz (microfone embutido) | Faixa de frequência Bluetooth: 2.402 GHz - 2.480 GHz | Potência RMS: 5 W | Resposta de frequência: 100Hz - 20KHz | Relação S / N: > 85 dB | Suporte para cartão MicroSD: até 32 GB | Entrada DC: MicroUSB 5 VDC até 1,5 A | Bateria: bateria recarregável de 1200 mAh | Dimensões: 116 x 93 x 93 mm | Peso líquido: 305 g.",
+  "tipo": "coluna",
+  "quantidade": 20,
+  "preco": 19.95,
+  "imageURL": "https://static.pcdiga.com/media/catalog/product/cache/7800e686cb8ccc75494e29411e232323/s/e/sem-ti_tulo4-1_1.jpg"
+},{
+  "_id": {
+    "$oid": "60f5f1c2fffa3e043269f19b"
+  },
+  "nome": "Cooler CPU a Água AIO Jonsbo ANGELEYES TW2 RGB - 360mm",
+  "descricao": "O Jonsbo ANGELEYES TW2-360 oferece um radiador triplo feito de alumínio. Este está equipado com três ventoinhas de 120 mm. As ventoinhas são controladas através de PWM num intervalo entre 700 e 1.500 rpm. O airflow é de 106,69 m³/h com um nível de ruído máximo de 29,5 dB(A).A placa inferior do bloco de arrefecimento do CPU é feita de cobre e garante uma dissipação do calor do CPU o melhor possível. A bomba é alimentada através de um conector de ventoinha de 3 pinos. As ventoinhas são alimentadas e controladas através de conectores PWM de 4 pinos. Um cabo Y-splitter para ligação a um header da ventoinha está incluído com o Jonsbo ANGELEYES TW2-360. O bloco da bomba e as ventoinhas estão equipados com uma iluminação RGB elegante.",
+  "especificacoes": "Compatibilidade de socket: Intel: 1200, 115x, 775, 1366, 2011 AMD: 754, 939, AM2(+), AM3(+), AM4, FM1, FM2(+)",
+  "tipo": "cpu-cooler",
+  "quantidade": 20,
+  "preco": 99.99,
+  "imageURL": "https://img.globaldata.pt/products/TW2-360.jpg?auto=compress%2Cformat&fit=fill&fill-color=fff&q=70&fill=solid&w=442&h=442"
+},{
+  "_id": {
+    "$oid": "60f5f1dafffa3e043269f19c"
+  },
+  "nome": "Coluna Portátil JBL Clip 3 Bluetooth Amarela",
+  "descricao": "A JBL Clip 3 é uma coluna portátil ultra-leve, ultra-robusta e ultra-poderosa. Completamente impermeável, a JBL Clip 3 fornece até 10 horas de tempo de reprodução, permitindo que você leve a sua música aonde quer que vá, seja terra ou água. Transmita música via Bluetooth, ou conecte-a a qualquer smartphone ou tablet com o seu cabo de áudio anexado. Você também pode conectar duas colunas JBL Clip 3 sem fio para desfrutar de um som amplificado. Use o alta-voz para fazer chamadas telefónicas claras. A JBL Clip 3 está coberta com tecido impermeável durável.",
+  "especificacoes": "Potência: 1 x 3W | Resposta de frequência: 120Hz – 20kHz (-6dB) | Tamanho do transdutor: 1 x 40mm | Relação sinal-ruído: > 80dB | Norma bluetooth: Bluetooth® 4.1 | Tipo de bateria: Polímero de íon de lítio (3.7V/1000mAh) | Tempo de carregamento: Até 3 horas @ 5V, 0.5A | Tempo de reprodução de música: Até 10 horas (varia de acordo com o volume e conteúdo) | Faixa de frequência do transmissor bluetooth: 2.402 - 2.480GHz | Dimensões do produto: 137 x 97 x 46 mm | Peso do produto: 210g.",
+  "tipo": "coluna",
+  "quantidade": 20,
+  "preco": 59.95,
+  "imageURL": "https://static.pcdiga.com/media/catalog/product/cache/7800e686cb8ccc75494e29411e232323/p/r/product-p017839-50693_2.jpg"
+},{
+  "_id": {
+    "$oid": "60f5f2aefffa3e043269f19d"
+  },
+  "nome": "Cooler CPU a Água Corsair Hydro H100i Pro RGB",
+  "descricao": "O software Corsair iCUE dá vida ao seu sistema com iluminação RGB dinâmica sincronizada, velocidades de ventoinhas personalizáveis para silenciar as ventoinhas e monitoramento avançado do sistema, tudo a partir de uma única interface intuitiva.",
+  "especificacoes": "Compatibilidade de socket AMD: AM3/AM2, AMD AM4 Intel LGA: Intel 115x, Intel 2011/2066",
+  "tipo": "cpu-cooler",
+  "quantidade": 20,
+  "preco": 133.99,
+  "imageURL": "https://img.globaldata.pt/products/CW-9060033-WW.jpg?auto=compress%2Cformat&fit=fill&fill-color=fff&q=70&fill=solid&w=442&h=442"
+},{
+  "_id": {
+    "$oid": "60f5f2effffa3e043269f19e"
+  },
+  "nome": "Rato Logitech PRO Lightspeed RGB Wireless 16000DPI",
+  "descricao": "O PRO Wireless foi projetado para ser o melhor rato para jogos para profissionais de esports. Num período de 2 anos, a Logitech G colaborou com mais de 50 jogadores profissionais para encontrar a forma, o peso e a sensação perfeitos combinados com as tecnologias de sensores sem fio LIGHTSPEED e HERO de 16k. O resultado é um rato para jogos com desempenho e precisão inigualáveis, oferecendo as ferramentas e a confiança necessárias para vencer. Como os profissionais de esports lutam por uma velocidade e precisão cada vez maiores, o mesmo acontece com a Logitech G. Com a invenção do HERO 16K, o sensor de jogos da próxima geração, o mundo agora tem um novo líder. Para o PRO Wireless, o HERO 16K foi otimizado para rastrear filmes insanos a velocidades superiores a 400 IPS. O HERO 16K oferece desempenho máximo em qualquer sensibilidade com suavização, aceleração ou filtragem zero de 100 a 16.000 DPI. O HERO 16K também consome 10x menos energia que os antecessores, como o PMW3366, permitindo uma bateria mais leve e maior duração da bateria. Os profissionais exigem o melhor, e isso é o HERO 16K.",
+  "especificacoes": "Sensor: HERO™ | Resolução: 100 – 16,000 DPI | Aceleração máxima: > 40G | Velocidade máxima: > 400 IPS | Taxa de relatório: 1000 Hz (1ms) | Tecnologia wireless: LIGHTSPEED Wireless | Microprocessador: 32-bit ARM | Memória onboard: 5 perfis | Iluminação RGB: 1 Zona | Autonomia: Até 48 horas (iluminação default) / Até 60 horas (sem iluminação) | Dimensões do produto: 125.0 mm (A) x 63.5 mm (L) x 40.0 mm (P) | Peso do produto: 80 g.",
+  "tipo": "rato",
+  "quantidade": 20,
+  "preco": 149.95,
+  "imageURL": "https://static.pcdiga.com/media/catalog/product/cache/7800e686cb8ccc75494e29411e232323/p/r/product-p015624-39299.jpg"
+},{
+  "_id": {
+    "$oid": "60f5f320fffa3e043269f19f"
+  },
+  "nome": "Cooler CPU a Água Asus ROG Ryuo 120 RGB Aurasync",
+  "descricao": "O ROG Ryuo é o primeiro cooler AIO do mundo a apresentar um OLED colorido LiveDash de 1,77 polegadas que exibe informações úteis do sistema, como temperaturas, voltagens, velocidades das ventoinhas ou freqüências. Você também pode personalizar o LiveDash para exibir uma imagem ou animação personalizada, destacando a sua insígnia do clã ou gamertag.",
+  "especificacoes": "Compatibilidade de socket Intel: LGA 1150, 1151, 1152, 1155, 1156, 1200, 1366, 2011, 2011-3, 2066 AMD: AM4, TR4",
+  "tipo": "cpu-cooler",
+  "quantidade": 20,
+  "preco": 139.99,
+  "imageURL": "https://img.globaldata.pt/products/90RC0010-M0UAY0.jpg?auto=compress%2Cformat&fit=fill&fill-color=fff&q=70&fill=solid&w=442&h=442"
+},{
+  "_id": {
+    "$oid": "60f5f3dbfffa3e043269f1a0"
+  },
+  "nome": "Rato Razer DeathAdder Essential 6400DPI Preto",
+  "descricao": "A Razer DeathAdder é, há mais de uma década, uma linha icónica de ratos para jogos na arena global de esports. Conquistou uma reputação de fiabilidade pela qual os gamers colocam a mão no fogo devido à sua durabilidade, conforto e ergonomia comprovados. Agora, a Razer está ainda a tornar mais acessível, com o mais recente membro da família – o Razer DeathAdder Essential. A Razer DeathAdder é uma das famílias de ratos para jogos mais aclamadas e reconhecidas do mundo. Com mais de 9 milhões de unidades vendidas em todo o planeta e dezenas de prémios, não é surpresa que o Razer DeathAdder se tenha tornado um clássico desde o seu surgimento.",
+  "especificacoes": "Sensor óptico com resolução real de 6.400 DPI | Até 220 polegadas por segundo (IPS)/30 G de aceleração | Cinco botões Hyperesponse com programação independente | Switches Mecânicos de Mouse Razer™ com vida útil de 10 milhões de cliques | Roda de rolagem tátil especial para jogos | Design ergonómico para destros | Ultrapolling de 1000 Hz | Iluminação verde em cor única | Habilitado para Razer Synapse 3 (Beta) | Dimensões aproximadas: 127,0 mm (comprimento) x 73,0 mm (largura) x 43,0 mm (altura) | Peso aproximado (excluindo o cabo): 96 g | Comprimento do cabo: 1,8 m.",
+  "tipo": "rato",
+  "quantidade": 20,
+  "preco": 49.95,
+  "imageURL": "https://static.pcdiga.com/media/catalog/product/cache/7800e686cb8ccc75494e29411e232323/p/r/product-p017099-52830.jpg"
+},{
+  "_id": {
+    "$oid": "60f5f468fffa3e043269f1a1"
+  },
+  "nome": "Rato Logitech B100 Preto",
+  "descricao": "A forma de baixo perfil torna a sua utilização confortável mesmo depois de um longo dia de trabalho. Você vai desfrutar de um controlo do cursor suave e preciso que permite editar documentos e navegar na Web de forma mais eficiente.",
+  "especificacoes": "3 botões | Conectividade USB | Rastreamento Óptico | Resolução 800 dpi | Comprimento do cabo 180 cm.",
+  "tipo": "rato",
+  "quantidade": 20,
+  "preco": 8.95,
+  "imageURL": "https://static.pcdiga.com/media/catalog/product/cache/7800e686cb8ccc75494e29411e232323/p/r/product-p002774-6720_25.jpg"
+},{
+  "_id": {
+    "$oid": "60f5f50afffa3e043269f1a2"
+  },
+  "nome": "Câmara Xiaomi Mi Home Security Camera 360° Full HD 1080P",
+  "descricao": "O motorhead duplo permite que a câmara gire e capture uma visão horizontal de 360° e uma visão vertical de 96°. O design à prova de choque da câmara e o motor silencioso permitem que a rotação permaneça suave e silenciosa. A Mi Camera 360° possui qualidade de imagem perfeita. Com 2,0 megapixels, resolução de 1080p e ampla faixa dinâmica, mesmo fundos distantes são claros e detalhados.",
+  "especificacoes": "Resolução de vídeo: Full HD 1080P, 1920 x 1080 | Ângulo da câmara: 110° | Comprimento focal: 3.9mm | Conectividade: Wi-Fi IEEE 802.11 b/g/n 2.4 GHz | Dispositivos suportados (APP): Android e IOS | Armazenamento: Cartão MicroSD (suporta 16GB-64GB, Classe 10 e acima) | Potência de entrada: 5V-1A | Dimensões do produto: 78 x 78 x 118mm | Peso do produto: 239g",
+  "tipo": "camara",
+  "quantidade": 20,
+  "preco": 39.95,
+  "imageURL": "https://static.pcdiga.com/media/catalog/product/cache/7800e686cb8ccc75494e29411e232323/p/r/product-p016588-50358_3_1.jpg"
+},{
+  "_id": {
+    "$oid": "60f5f54cfffa3e043269f1a3"
+  },
+  "nome": "Ventoinha EKWB Vardar EVO 140ER D-RGB Preto",
+  "descricao": "O EK-Vardar EVO 140ER D-RGB é uma ventoinha de arrefecimento de alta pressão estática, desenhada e construída principalmente para sistemas informáticos de arrefecimento a líquido de alto desempenho. Desenvolvido internamente e introduzido pela primeira vez em 2014, a ventoinha EK-Vardar EVO 140ER D-RGB está agora também disponível como EK-Vardar EVO 140ER D-RGB. Para além do efeito de iluminação endereçável D-RGB, a nova ventoinha também inclui a função Extended Range (ER) de funcionamento PWM e a função especial Start-Stop que traz uma verdadeira experiência 0dB para o funcionamento absolutamente silencioso da ventoinha.",
+  "especificacoes": "Velocidade: 1600 rpm (+/- 10%) | Diâmetro da ventoinha: 140 mm",
+  "tipo": "ventoinha",
+  "quantidade": 20,
+  "preco": 25.95,
+  "imageURL": "https://img.globaldata.pt/products/3830046995469.jpg?auto=compress%2Cformat&fit=fill&fill-color=fff&q=70&fill=solid&w=442&h=442"
+},{
+  "_id": {
+    "$oid": "60f5f5a6fffa3e043269f1a4"
+  },
+  "nome": "Webcam Logitech StreamCam Full HD 1080p USB 3.1 Type-C Branca",
+  "descricao": "Eleve o nível do seu conteúdo ou compartilhe as suas paixões usando a Logitech StreamCam. Com impecável qualidade de imagem, microfones frontais duplos, opções de montagem versáteis e conectividade USB-C, a StreamCam é a câmara perfeita para fazer a transmissão para as suas plataformas de streaming favoritas — tudo o que você precisa de fazer é ser você mesmo! A Logitech StreamCam é ainda mais poderosa quando usada com o Logitech Capture. O Capture desbloqueia recursos da StreamCam que automatizam a exposição, enquadramento, estabilização e muito mais, para que você possa concentrar-se em criar o seu melhor conteúdo.",
+  "especificacoes": "Streaming Realista a 60 FPS | Foco Automático e Exposição Inteligente | Vídeo Horizontal ou Vertical (9:16) Full HD | Perfeita para stories de Instagram e Facebook | Opções de Montagem Versáteis | Conexão via USB-C | Excelente Desempenho de Áudio | Microfones frontais duplos | Otimizada para Open Broadcaster Software (OBS), XSplit e Streamlabs | Enquadramento Automático Inteligente | Compatível com Windows e MacOS.",
+  "tipo": "camara",
+  "quantidade": 20,
+  "preco": 159.95,
+  "imageURL": "https://static.pcdiga.com/media/catalog/product/cache/7800e686cb8ccc75494e29411e232323/1/_/1_297_2.jpg"
+},{
+  "_id": {
+    "$oid": "60f5f62bfffa3e043269f1a5"
+  },
+  "nome": "Webcam AUKEY PC-LM1E FHD 1080p",
+  "descricao": "Webcam de alta definição 1080p de 2 megapixels com sensor de imagem CMOS de 1 / 2,9 ”e microfones stereo integrados. Oferece vídeo nítido e suave para conversas no Skype e gravações do YouTube. Excelente qualidade de vídeo com transmissão de 1080p e gravação a 30fps. Bom desempenho mesmo em ambientes mal iluminados. O foco fixo mantém as coisas em foco até cinco metros de distância. Transmita e capture vídeos mais nítidos e detalhados, também com som stereo.",
+  "especificacoes": "Modelo: PC-LM1E | 1080p de alta definição | Webcam de 2 megapixels | Sensor de imagem CMOS de 1 / 2,9 | Microfones stereo integrados.",
+  "tipo": "camara",
+  "quantidade": 20,
+  "preco": 39.95,
+  "imageURL": "https://static.pcdiga.com/media/catalog/product/cache/7800e686cb8ccc75494e29411e232323/w/e/webcam_aukey_pc-lm1e_fhd_1080p_1.jpg"
+},{
+  "_id": {
+    "$oid": "60f5f65bfffa3e043269f1a6"
+  },
+  "nome": "Ventoinha Phanteks SK PWM ARGB - 120mm",
+  "descricao": "As ventoinhas SK PWM da Phanteks permitem um elevado airflow com um design de nove lâminas. As ventoinhas SK são conhecidas pela premiada caixa da série Eclipse, como a P400A e pelo seu desempenho em termos de arrefecimento. As capacidades integradas do PWM ajudam a controlar de forma precisa a velocidade para oferecer um maior airflow ou uma solução para um arrefecimento mais silencioso quando necessário. Os amortecedores em borracha incluídos e o design rígido exclusivo da estrutura reduzem ainda mais as vibrações e o ruído. As ventoinhas SK PWM são a forma perfeita para aumentar ainda mais o desempenho de arrefecimento de qualquer caixa.",
+  "especificacoes": "Velocidade: 500 ~1500 +5 /-10% RPM | Diâmetro da ventoinha: 120 mm",
+  "tipo": "ventoinha",
+  "quantidade": 20,
+  "preco": 12.95,
+  "imageURL": "https://img.globaldata.pt/products/PH-F120SK_DRGB_PWM_PWM.jpg?auto=compress%2Cformat&fit=fill&fill-color=fff&q=70&fill=solid&w=442&h=442"
+},{
+  "_id": {
+    "$oid": "60f5f72cfffa3e043269f1a7"
+  },
+  "nome": "Ventoinha Corsair ML120 Pro LED Azul 120mm",
+  "descricao": "Aproveita a tecnologia de levitação magnética para proporcionar um desempenho melhor, menos ruído e uma vida útil mais longa. Oferece o equilíbrio ideal entre a alta pressão estática e o elevado fluxo de ar, com um funcionamento perfeito nos ambientes mais desafiadores. Uma faixa de controle PWM de 1600 RPM garante um controle total entre baixo ruído e desempenho absoluto.",
+  "especificacoes": "Velocidade: 400 - 2400 RPM | Diâmetro da ventoinha: 120 mm",
+  "tipo": "ventoinha",
+  "quantidade": 20,
+  "preco": 21.99,
+  "imageURL": "https://img.globaldata.pt/products/CO-9050043-WW.jpg?auto=compress%2Cformat&fit=fill&fill-color=fff&q=70&fill=solid&w=442&h=442"
+},{
+  "_id": {
+    "$oid": "60f5f75dfffa3e043269f1a8"
+  },
+  "nome": "Fonte de Alimentação Seasonic Focus Gold GX 650W Full Modular",
+  "descricao": "Devido ao seu pequeno fator de forma, a fonte de alimentação Focus+ Gold da Seasonic é uma ótima solução para aqueles que querem construir sistemas mais pequeno e que se preocupam com um interior arejado dentro da caixa do seu computador. Os cabos pretos totalmente modulares e pretos são fáceis de instalar, economizam espaço dentro da caixa do computador e proporcionam uma ampla personalização e possibilidades de atualização ao mesmo tempo. Possui a maior densidade de potência da sua classe e também apresenta características notáveis de estabilidade e saída durante o funcionamento.",
+  "especificacoes": "Tipo: Intel ATX 12 V | Potência Máxima: 650W | OEM: Seasonic | Eficiência: 80 Plus Gold | Refrigeração: 1 x Ventoinha 120mm | Fluid Dynamic | Output: +3.3V@20A +5V@20A +12V@54A -12V@0.3A +5VSB@3A | Conectores: 1 x M/B 24/20 Pinos @ 610mm; 1 x CPU 8/4 Pinos @ 650mm; 4 x PCI-E 8/6 Pinos; 3 x Periféricos 4 Pinos; 8 x SATA; 1 x FDD | Dimensões do Produto: 150 mm (W) x 140 mm (L) x 86 mm (H).",
+  "tipo": "fonte",
+  "quantidade": 20,
+  "preco": 119,
+  "imageURL": "https://static.pcdiga.com/media/catalog/product/cache/7800e686cb8ccc75494e29411e232323/1/_/1_243_9.jpg"
+},{
+  "_id": {
+    "$oid": "60f5f7ebfffa3e043269f1a9"
+  },
+  "nome": "Fonte de Alimentação Kolink Core 500W 80PLUS",
+  "descricao": "Além das inúmeras caixas de baixo custo, mas altamente conceituadas, e de uma extensa gama de acessórios, a marca Kolink já oferece fontes de alimentação de várias classes de desempenho. Após a entrada bem-sucedida no mercado europeu de fontes de alimentação para PC no final de 2015, a Kolink está agora a trabalhar com a série Core e mostra que fontes de alimentação particularmente baratas são possíveis sem que o cliente tenha que renunciar a recursos básicos de qualidade. Uma fonte de alimentação Kolink-Core oferece tudo o que é realmente importante, enquanto recursos menos importantes são guardados de forma consistente. Portanto, as Cores são tecnicamente sólidas, e mesmo assim são mais baratos que alguns produtos de performance mais baixa.",
+  "especificacoes": "Capacidade: 500W | DC Output: 500 W + 3.3V: 15A + 5V: 15A + 3.3V / + 5V: 100W + 12V: 396W / 33A -12V: 0.3 A / 3.6 W + 5Vsb: 2.5 A / 12.5 W | Certificação: 80 PLUS | Eficiência: Pelo menos 80% a 50/20/100% de carga | Refrigeração: 120 mm (controlo automático) | Dimensões do produto: 140 x 86 x 150 mm (W x H x D).",
+  "tipo": "fonte",
+  "quantidade": 20,
+  "preco": 30.95,
+  "imageURL": "https://static.pcdiga.com/media/catalog/product/cache/7800e686cb8ccc75494e29411e232323/1/_/1_205_1.jpg"
+},{
+  "_id": {
+    "$oid": "60f5f890fffa3e043269f1aa"
+  },
+  "nome": "Fonte de Alimentação Kolink Enclave 700W 80PLUS Gold Full Modular",
+  "descricao": "A série Enclave da Kolink representa uma nova série de fontes de alimentação de alto desempenho com certificação 80 PLUS Gold. Os componentes de qualidade premium, o design avançado e o poderoso single rail de 12V garantem uma entrega de energia robusta e fiável, bem como uma regulação precisa da tensão. A fonte de alimentação de qualidade premium é complementada pela adição bem-vinda do gestão de cabos totalmente modular, bem como por uma ventoinha silenciosa de 120 mm.",
+  "especificacoes": "Capacidade: 700W | DC Output: - +3,3V: 16 A; +5V: 16 A; +3,3V and +5V combined: 100 W; +12V: 696 W / 58 A; -12V: 6 W / 0,5 A; +5Vsb: 15 W / 3 A | Certificação: 80 PLUS Gold | Refrigeração: 120 mm (controlo automático) | Dimensões do produto: 150 x 86 x 160 mm (W x H x D) | Conectores: 1 x 20+4-Pin ATX12V/EPS12V; 1 x 4+4-Pin ATX12V/EPS12V; 4 x 6+2-Pin PCIe; 8 x SATA; 4 x 4-Pin Molex",
+  "tipo": "fonte",
+  "quantidade": 20,
+  "preco": 79.95,
+  "imageURL": "https://static.pcdiga.com/media/catalog/product/cache/7800e686cb8ccc75494e29411e232323/1/_/1_216_50.jpg"
+}]

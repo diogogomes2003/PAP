@@ -1,0 +1,84 @@
+.body {
+    position: relative;
+    width: 100%;
+}
+
+.body.cart {
+    margin-top: 190px;
+    max-height: 350px;
+    overflow: auto;
+    width: 520px;
+}
+
+.products {
+    width: 500px;
+}
+
+.product td:first-child {
+    padding-top: 0px;
+}
+
+.product td {
+    width: 120px;
+}
+
+td img {
+    width: 90px;
+}
+
+tr {
+    font-weight: bold;
+    border-bottom: 1px solid rgb(146, 146, 146);
+    height: 130px;
+}
+
+tr:last-child {
+    border-bottom: 0px;
+}
+
+.trebuchet {
+    font-family: 'Trebuchet MS';
+}
+
+.icone {
+    margin-right: 5px;
+}
+
+.buy-button {
+    display: flex;
+    justify-content: flex-end;
+    width: 500px;
+    position: fixed;
+    bottom: 0;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    background-color: white;
+}
+
+.btn:hover {
+    background-color: white;
+    color:rgb(255, 69, 0);
+    border-color: rgb(255, 69, 0);;
+}
+
+.quantity {
+    width: 45px;
+    border-color: rgba(78, 38, 0, 0.377);
+    border-radius: 2px;
+}
+
+.delete {
+    border: 0px;
+    background-color: transparent;
+    position: relative;
+    right: 0;
+    margin-top: 15px;
+    color: red;
+}
+
+.btn {
+    background-color: rgb(255, 69, 0);
+    color: white;
+    display: flex;
+    transition: 0.5 linear;
+}

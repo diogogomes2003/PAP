@@ -1,0 +1,92 @@
+<form #f="ngForm" (ngSubmit)="comprar(f)">
+    <h1 mat-dialog-title>
+        <img class="bars" src="../../../assets/double-bars.png">
+        Confirmação de compra <span> | </span> <span> Informação bancária e finalização da compra</span>
+    </h1>
+
+    <hr>
+
+    <div mat-dialog-content>
+        <div class="modal-container">
+            <div class="left">
+                <h3>Informação bancária</h3>
+                <div class="row">
+                    <div class="col-md-6">
+                        <label class="form-label">NIB<span class="needed">*</span></label>
+                        <input type="text" class="form-control" name="ncontaban" [ngModel]="utilizador?.ncontaban" required>
+                    </div>
+                    <div class="col-md-6">
+                        <label class="form-label">Banco<span class="needed">*</span></label>
+                        <select class="form-select" name="banco" required>
+                            <option value="BPI" selected *ngIf="utilizador?.banco == 'bpi'">BPI</option>
+                            <option value="Novo Banco" selected *ngIf="utilizador?.banco == 'Novo Banco'">Novo Banco</option>
+                            <option value="Millenium BCP" selected *ngIf="utilizador?.banco == 'Millenium BCP'">Millenium BCP</option>
+                            <option value="Santander Totta" selected *ngIf="utilizador?.banco == 'Santander Totta'">Santander Totta</option>
+                            <option value="BANIF" selected *ngIf="utilizador?.banco == 'BANIF'">BANIF</option>
+                            <option value="Montepio" selected *ngIf="utilizador?.banco == 'Montepio'">Montepio</option>
+
+                            <option value="BPI" *ngIf="utilizador?.banco != 'BPI'">BPI</option>
+                            <option value="Novo Banco" *ngIf="utilizador?.banco != 'Novo Banco'">Novo Banco</option>
+                            <option value="Millenium BCP" *ngIf="utilizador?.banco != 'Millenium BCP'">Millenium BCP</option>
+                            <option value="Santander Totta" *ngIf="utilizador?.banco != 'Santander Totta'">Santander Totta</option>
+                            <option value="BANIF" *ngIf="utilizador?.banco != 'BANIF'">BANIF</option>
+                            <option value="Montepio" *ngIf="utilizador?.banco != 'Montepio'">Montepio</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="right">
+                <div class="header">
+                    <h3>Produtos a comprar</h3>
+                    <span> <b> TOTAL</b>: {{ total | number : '1.2-2' }} € </span>
+                </div>
+                <table class="fixed">
+                    <tr>
+                        <td>
+                        </td>
+                        <td>
+                            Produto
+                        </td>
+                        <td>
+                            Quantidade
+                        </td>
+                        <td>
+                            Preço
+                        </td>
+                    </tr>
+                </table>
+
+                <br> 
+
+                <div class="produtos">
+                    <table>
+                        <tr *ngFor="let produto of listaCompras">
+                            <td>
+                                <img src={{produto.imagem}}>
+                            </td>
+                            <td>
+                                {{ produto.nomeProduto }}
+                            </td>
+                            <td>
+                                {{ produto.quantidade }}
+                            </td>
+                            <td>
+                                {{ produto.preco * produto.quantidade | number: '1.2-2' }} €
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+        
+
+    <hr id="divisor">
+
+    <div mat-dialog-actions class="buttons">
+        <button mat-button mat-dialog-close (click)="recuarCompra()">Cancelar</button>
+        <button mat-button mat-dialog-close class="submit" type="submit" [disabled]="!f.valid" [class.disabled]="!f.valid">Prosseguir</button>
+        <p class="p-2"><b> Obs.: </b> Crie uma conta e evite preencher todos os campos!</p>
+    </div>       
+</form>

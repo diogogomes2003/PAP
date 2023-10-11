@@ -1,0 +1,123 @@
+.product-container {
+    width: 90%;
+    left: 50%;
+    transform: translateX(-50%);
+    position: relative;
+    margin-top: 140px;
+    margin-bottom: 100px;
+    clear: both;
+}
+
+.left-side {
+    width: 50%;
+    position: relative;
+    float: left;
+}
+
+.right-side {
+    width: 45%;
+    position: relative;
+    float: right;
+}
+
+.product-image {
+    width: 100%;
+    position: relative;
+    background-color: white;
+}
+
+.product-image img{
+    width: 350px;
+    left: 50%;
+    transform: translateX(-50%);
+    position: relative;
+}
+
+h1 {
+    font-size: 35px;
+    font-weight: 400;
+    line-height: 45px;
+}
+
+.price {
+    font-weight: bold;
+    color: rgb(255, 69, 0);
+}
+
+.description p {
+    font-size: 15px;
+    line-height: 22px;
+}
+
+.description {
+    margin-top: 25px;
+}
+
+mat-tab-group {
+    margin-top: 50px;
+}
+
+.mat-div {
+    margin-top: 40px;
+    background-color: rgb(241, 241, 241);
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 20px;
+    padding-top: 35px;
+}
+
+.mat-div tr {
+    line-height: 35px;
+}
+
+.mat-div tr td:first-child {
+    padding-right: 20px;
+}
+
+.mat-div.first {
+    padding-top: 20px;
+}
+
+.trebuchet {
+    font-family: 'Trebuchet MS';
+}
+
+.btn {
+    margin-top: 30px;
+    color: white;
+    transition: 0.5 linear;
+    display: flex;
+}
+
+.btn.add-to-cart {
+    background-color: rgb(255, 69, 0);
+}
+
+.btn.added-to-cart {
+    background-color: rgb(0, 160, 27);
+}
+
+.btn.unavailable {
+    background-color: rgb(160, 0, 0);
+}
+
+.btn.add-to-cart:hover {
+    background-color: white;
+    color: rgb(255, 69, 0);
+    border-color: rgb(255, 69, 0);
+}
+
+.btn.added-to-cart:hover {
+    background-color: white;
+    color: rgb(0, 160, 27);
+    border-color: rgb(0, 160, 27);
+}
+
+.icone {
+    margin-right: 5px;
+}
+
+.add-cart {
+    display: flex;
+}
+

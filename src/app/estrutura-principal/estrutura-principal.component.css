@@ -1,0 +1,269 @@
+.mat-button.mat-accent, .mat-icon-button.mat-accent, .mat-stroked-button.mat-accent {
+    color: #000000;
+    position: absolute;
+}
+
+.menu {
+    margin-left: 10px;
+    float: left;
+    position: relative;
+}
+
+.head {
+    position: fixed;
+    z-index: 1;
+    background-color: white;
+    width: 280px;
+}
+
+.head.cart {
+    width: 500px;
+    padding-top: 20px;
+    top: 0;
+}
+
+.body {
+    margin-top: 90px;
+    position: relative;
+    width: 100%;
+}
+
+.example-container {
+    position: relative;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+  }
+  
+
+mat-sidenav {
+    position: fixed;
+}
+
+.button {
+    width: 100%;
+    text-align: left;
+    height: 50px;
+}
+
+#menu_title {
+    font-size: 20px;
+    font-weight: 500;
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+    margin-top: 20px;
+    margin-left: 15px;
+}
+
+.mat-form-field + .mat-form-field {
+    margin-left: 8px;
+  }
+
+.footer {
+    height: 30px;
+    background-color: rgb(34, 34, 34);
+    bottom: 0px;
+    margin-left: 10px;
+    width: 290px;
+    position: fixed;
+    z-index: -1;
+}
+
+.left_bar {
+    height: 100%;
+    width: 10px;
+    background-color: rgb(255, 69, 0);
+    position: absolute;
+    z-index: 1;
+    left: 0;
+}
+
+.right_bar {
+    height: 100%;
+    width: 10px;
+    background-color: rgb(255, 69, 0);
+    position: absolute;
+    z-index: 1;
+    right: 0;
+}
+
+.hr_menu {
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 100%;
+}
+
+.content {
+    width: 300px;
+    margin-left: 10px;
+    float: left;
+}
+
+.icone {
+    margin-right: 15px;
+}
+
+header {
+    position: fixed;
+    top: 0;
+    height: auto;
+    width: 100%;
+    z-index: 3;
+}
+
+nav{
+    height: 85px;
+    background-color: rgb(218, 218, 218);
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+    box-shadow: -2px 1px 5px black;
+}
+
+.page-content {
+    margin-top: 120px;
+}
+
+.pagecontent:after {
+    clear: both;
+}
+
+.buttons:after {
+    clear: both;
+}
+
+.navbar-container {
+    position: relative;
+    width: 100%;
+    height: auto;
+}
+
+.menu {
+    margin-left: 10px;
+    float: left;
+    position: relative;
+}
+
+.navbar-brand{
+    margin-left: 150px;
+    position: relative;
+    float: left;
+}
+
+.input-group {
+    float: left;
+    position: relative;
+    width: 600px;
+    margin-left: 120px;
+    height: 100%;
+}
+
+.buttons {
+    float: right;
+    padding-right: 15px;
+    position: relative;
+}
+
+.buttons button {
+    height: 50px;
+    width: 50px;
+    padding-top: 6px;
+}
+
+.buttons button:last-child {
+    margin-left: 5px;
+}
+
+::ng-deep .buttons .mat-icon{
+    height: 34px !important;
+    width: 34px !important;
+    font-size: 34px !important;
+}
+
+.navbar-container button {
+    opacity: 0.85;
+}
+
+.navbar-container button:hover {
+    opacity: 1;
+}
+
+.navbar-container, .navbar-brand, .buttons, .menu, .input-group {
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.input-group-text {
+    background-color: transparent;
+}
+
+.form-control:focus {
+    box-shadow: 0 0 0 0.25rem rgb(255 69 0 / 25%);
+    border-color:rgb(255, 69, 0);
+}
+
+.cart-content {
+    width: 550px;
+    padding-left: 20px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    padding-top: 0;
+}
+
+.cart-content #header {
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.cart-content p {
+    font-size: 15px;
+}
+
+.space {
+    background-color: white;
+    height: 30px;
+    position: absolute;
+}
+
+.body.cart {
+    margin-top: 160px;
+}
+
+.trebuchet {
+    font-family: 'Trebuchet MS';
+}
+
+.bars {
+    width: 30px;
+}
+
+.fixed td {
+    width: 120px;
+}
+
+#space {
+    width: 20px;
+}
+
+.fixed {
+    background-color: white;
+}
+
+tr {
+    font-weight: bold;
+    border-bottom: 1px solid rgb(146, 146, 146);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

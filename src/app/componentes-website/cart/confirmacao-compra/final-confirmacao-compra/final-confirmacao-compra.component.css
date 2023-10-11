@@ -1,0 +1,111 @@
+.modal-container {
+    width: 1020px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    position: relative;
+    height: 200px;
+}
+
+@media only screen and (max-width: 1280px) {
+    .modal-container {
+      width: 1000px;
+    }
+  } 
+
+.left {
+    float: left;
+    position: relative;
+    padding-bottom: 20px;
+    background-color: transparent;
+}
+
+.right {
+    float: right;
+    position: relative;
+    width: 500px;
+    margin-left: 20px;
+    padding-bottom: 20px;
+}
+
+@media only screen and (max-width: 1280px) {
+    .right {
+      margin-right: 25px;
+    }
+  } 
+
+#divisor {
+    clear: both;
+    position: relative;
+}
+
+.row {
+    padding-bottom: 20px;
+}
+
+h3 {
+    border-bottom: 1px solid rgb(194, 194, 194);
+    margin-bottom: 30px;
+}
+
+.fixed {
+    position: fixed;
+    width: 500px;
+    font-weight: bold;
+}
+
+@media only screen and (max-width: 1280px) {
+    .fixed {
+        margin-left: 0px;
+        margin-right: 35px;
+    }
+  } 
+
+.fixed tr {
+    border-bottom: 1px solid black;
+}
+
+.fixed td {
+    width: 125px;
+}
+
+.produtos {
+    margin-top: 20px;
+    max-height: 200px;
+    overflow: auto;
+    width: 500px;
+}
+
+.produtos img {
+    width: 80px;
+}
+
+.produtos td {
+    width: 125px;
+}
+
+.produtos tr {
+    height: 100px;
+    border-bottom: 1px solid rgb(146, 146, 146);
+}
+
+.produtos tr:last-child {
+    border-bottom: 0px;
+}
+
+.header {
+    width: 500px;
+}
+
+.header span {
+    right: 0;
+    top: 5px;
+    position: absolute;
+}
+
+.header span b {
+    color: rgb(255, 69, 0);
+}
+
+.header::after {
+    clear: both;
+}

@@ -1,0 +1,103 @@
+#background {
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    filter: blur(4px);
+}
+
+.cobertura {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+}
+
+.main-box img {
+    width: 270px;
+    left: 50%;
+    transform: translateX(-50%);
+    position: relative;
+}
+
+.main {
+    height: 100%;
+    width: 100%;
+    float: left;
+    background-color:rgba(0, 0, 0, 0.377);
+}
+
+.main-box:hover {
+    padding: 40px;
+}
+
+.main-box:hover hr{
+    border: 1px solid rgb(255, 69, 0);
+    opacity: 1;
+}
+
+.submit.active {
+    background:rgb(19, 122, 33);
+    color: white;
+}
+
+.reset.active {
+    background:rgb(179, 137, 0);
+    color: white;
+}
+
+.main-box {
+    float: left;
+    padding: 35px;
+    transition: 200ms linear;
+    background-color: rgba(255, 255, 255, 0.829);
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: relative;
+    top: 50%;
+}
+
+h1 {
+    color: rgb(27, 27, 27);
+    text-align: center;
+    font-size: 60px;
+    transition: 200ms linear;
+}
+
+hr {
+    border: solid 0.5px rgb(15, 15, 15);
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    transition: 200ms linear;
+}
+
+.example-form {
+    min-width: 150px;
+    max-width: 500px;
+    width: 100%;
+}
+  
+.example-full-width {
+    width: 100%;
+}
+
+.submit {
+    transition: 200ms linear;
+    float: right;
+}
+
+.reset {
+    transition: 200ms linear;
+    margin-left: 10px;
+    float: right;
+}
+
+.new-acc {
+    background-color: rgb(255, 69, 0);
+    color: white;
+}
+
+.main-box h4 {
+    border-bottom: 1px solid black;
+    font-weight: 500;
+}

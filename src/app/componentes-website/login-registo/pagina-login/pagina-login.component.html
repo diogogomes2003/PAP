@@ -1,0 +1,80 @@
+<img id="background" src="https://forensicstore.com/wp-content/uploads/2017/08/computer-store-background.jpg">
+<div class="cobertura">
+    <div class="main"> 
+        <div class="main-box">
+            <a [routerLink]="['']">
+                <img src="../../assets/G&S.png">
+            </a>
+            <br><br>
+            <hr>
+            <br> <br>
+
+            <h4>Iniciar sessão</h4>
+            <br>
+            <form #f="ngForm" (ngSubmit)="logIn()" class="example-form">
+                <mat-form-field appearance="fill" class="example-full-width">
+                    <mat-label>E-mail</mat-label>
+                    <input 
+                        id="email"
+                        matInput 
+                        name="email"
+                        placeholder="Ex. user@email.com" 
+                        [(ngModel)]="utilizador.email"
+                        #email="ngModel"
+                        required
+                        email
+                    >
+                </mat-form-field>
+
+                <mat-form-field  appearance="fill" class="example-full-width">
+                    <mat-label>Palavra-passe</mat-label>
+                    <input 
+                        id="password"
+                        matInput 
+                        name="password"
+                        [type]="hide ? 'password' : 'text'" 
+                        [(ngModel)]="utilizador.password"
+                        #password="ngModel"
+                        minlength="8"
+                        required
+                    >
+                    
+                    <button mat-icon-button 
+                        matSuffix 
+                        type="button"
+                        (click)="hide = !hide">
+                        <mat-icon>{{hide ? 'visibility_off' : 'visibility'}}</mat-icon>
+                    </button>
+                </mat-form-field>
+
+                <br> <br> 
+
+                <div class="buttons">
+                    <button 
+                        type="button"
+                        mat-flat-button
+                        class="new-acc"
+                        (click)="signUp()">Criar nova conta
+                    </button>
+
+                    <button 
+                        type="reset"
+                        [disabled]="(password.value == null || password.value == '') && (email.value == null || email.value == '')"  
+                        [class.active]="(password.value != null && password.value != '') || (email.value != null && email.value != '')"  
+                        mat-button 
+                        class="reset"
+                        > Cancelar
+                    </button>
+
+                    <button 
+                        type="submit"
+                        [disabled]="!email.valid || !password.valid"  
+                        [class.active]="email.valid && password.valid"  
+                        mat-button 
+                        class="submit">Entrar
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

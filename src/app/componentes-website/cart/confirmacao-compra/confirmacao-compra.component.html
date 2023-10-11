@@ -1,0 +1,56 @@
+<h1 mat-dialog-title>
+    <img class="bars" src="../../../assets/double-bars.png">
+    Confirmação de compra <span> | </span> <span> Informação pessoal </span>
+</h1>
+
+<hr>
+
+<form #f="ngForm" (ngSubmit)="comprar(f)" class="form">
+    <div mat-dialog-content> 
+        <p class="title-text"> Introduza as seguintes informações para proceder com a compra: </p>
+        <div class="row big-row">
+            <div class="col-md-6">
+                <label class="form-label">Nome<span class="needed">*</span></label>
+                <input minlength="3" #nome="ngModel" type="text" class="form-control" name="nome" [ngModel]="utilizador?.FirstName" required>
+            </div>
+
+            <div class="col-md-6 space">
+                <label class="form-label">Email<span class="needed">*</span></label>
+                <input #email="ngModel" type="text" class="form-control" name="email" [ngModel]="utilizador?.email" email required>
+            </div>
+
+            <div class="col-md-6">
+                <label class="form-label">Distrito<span class="needed">*</span></label>
+                <input #distrito="ngModel" type="text" class="form-control" name="distrito" [ngModel]="utilizador?.distrito" required>
+            </div>
+
+            <div class="col-md-6 space">
+                <label class="form-label">Concelho<span class="needed">*</span></label>
+                <input #concelho="ngModel" type="text" class="form-control" name="concelho" [ngModel]="utilizador?.concelho" required>
+            </div>
+
+            <div class="col-md-6">
+                <label class="form-label">Freguesia<span class="needed">*</span></label>
+                <input #freguesia="ngModel" type="text" class="form-control" name="freguesia" [ngModel]="utilizador?.freguesia" required>
+            </div>
+
+            <div class="col-md-6 space">
+                <label class="form-label">Morada<span class="needed">*</span></label>
+                <input #morada="ngModel" type="text" class="form-control" name="morada" [ngModel]="utilizador?.Morada" required>
+            </div>
+
+            <div class="col-md-6 space">
+                <label class="form-label">Código postal<span class="needed">*</span></label>
+                <input #codigopostal="ngModel" type="text" class="form-control" name="codigopostal" [ngModel]="utilizador?.CodigoPostal" required>
+            </div>
+        </div>
+    </div>
+
+    <hr>
+
+    <div mat-dialog-actions class="buttons">
+        <button mat-button mat-dialog-close type="button">Cancelar</button>
+        <button mat-button mat-dialog-close class="submit" type="submit" [disabled]="!f.valid" [class.disabled]="!f.valid">Prosseguir</button>
+        <p class="p-1"><b> Obs.: </b> Crie uma conta e evite preencher todos os campos!</p>
+    </div>
+</form>

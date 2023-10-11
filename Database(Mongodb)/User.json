@@ -1,0 +1,95 @@
+[{
+  "_id": {
+    "$oid": "60f1ea88c5b07307162161c7"
+  },
+  "email": "ruben@gmail.com",
+  "password": "$2a$10$LeJkpj5E9Qm9YHbl1WlGZ.lbC76H4tdItJJS0zDdx2V4gqhKM7qgy",
+  "FirstName": "Rúben",
+  "LastName": "Santos",
+  "Morada": "x",
+  "CodigoPostal": "4410-208",
+  "Contacto": 912861639,
+  "datanasc": "2003-05-15",
+  "sexo": "Masculino",
+  "pais": "Portugal",
+  "distrito": "Porto",
+  "concelho": "Vila Nova de Gaia",
+  "freguesia": "S. Félix da Marinha",
+  "banco": "Novo Banco",
+  "ncontaban": "2833-3123-4342-4544"
+},{
+  "_id": {
+    "$oid": "60f44a76d557770383e019b8"
+  },
+  "email": "diogo@gmail.com",
+  "password": "$2a$10$2hrVWavY97lwKQQZzsJ4Q.Ts6tjMkIwzHhag3AbvJKvql8TAfyDVu",
+  "FirstName": "diogo",
+  "LastName": "gomes",
+  "Morada": "Av. Jorge Correia, n 812",
+  "CodigoPostal": "4410-342",
+  "Contacto": 932056307,
+  "datanasc": "2003-07-31",
+  "sexo": "Masculino",
+  "pais": "Portugal",
+  "distrito": "Porto",
+  "concelho": "Vila Nova de Gaia",
+  "freguesia": "Arcozelo",
+  "banco": "Montepio",
+  "ncontaban": "2819-9494-94024912932-60"
+},{
+  "_id": {
+    "$oid": "60f4524a4648bd0647eaef77"
+  },
+  "email": "diogosousa@gmail.com",
+  "password": "$2a$10$0EplO7UGG39AswSWBol8/.s3LPgWRRo3iVO3UxO/sf/ZkLkgMKVKO",
+  "FirstName": "diogo",
+  "LastName": "sousa",
+  "Morada": "Av. Jorge Correia, n 812",
+  "CodigoPostal": "4410-342",
+  "Contacto": 920049032,
+  "datanasc": "2000-01-30",
+  "sexo": "Masculino",
+  "pais": "Portugal",
+  "distrito": "Porto",
+  "concelho": "Vila Nova de Gaia",
+  "freguesia": "Arcozelo",
+  "ncontaban": "2819-9494-94024912932-60"
+},{
+  "_id": {
+    "$oid": "60f4651c9effe5091b892d56"
+  },
+  "email": "joaosilva@gmail.com",
+  "password": "$2a$10$Wgl9d/hzyQz6Sbabsg5eLe2yDfjT3HOoXbSqGpHVZCsasULICv8xK",
+  "FirstName": "João",
+  "LastName": "Silva",
+  "Morada": "Rua do Rio, 299",
+  "CodigoPostal": "4410-202",
+  "Contacto": 928378224,
+  "datanasc": "2021-07-01",
+  "sexo": "Masculino",
+  "pais": "Portugal",
+  "distrito": "Porto",
+  "concelho": "Vila Nova de Gaia",
+  "freguesia": "Madalena",
+  "banco": "BPI",
+  "ncontaban": "2833-3123-4342-4544"
+},{
+  "_id": {
+    "$oid": "60f4660b9effe5091b892d57"
+  },
+  "email": "joaquim@hotmail.com",
+  "password": "$2a$10$DXxYLe5.oEsqQs/GKXzFkuSHz5zFs/jzwMvwm.Q0PhrcTQUhJRFJq",
+  "FirstName": "Joaquim",
+  "LastName": "Carvalho",
+  "Morada": "Rua dos Prazeres, 132",
+  "CodigoPostal": "4410-392",
+  "Contacto": 911111146,
+  "datanasc": "2021-05-12",
+  "sexo": "Masculino",
+  "pais": "Portugal",
+  "distrito": "Porto",
+  "concelho": "Vila Nova de Gaia",
+  "freguesia": "Canelas",
+  "banco": "Montepio",
+  "ncontaban": "2833-3123-4342-4544"
+}]

@@ -1,0 +1,211 @@
+<div class="personal-area-container">
+    <div class="header" *ngIf="utilizador">
+        <h1>
+            <img src="../../assets/double-bars.png">
+            Área pessoal
+        </h1>
+        <hr>
+    </div>
+
+    <br><br>
+
+    <div class="account-container" *ngIf="utilizador">
+        <div class="profile-picture">
+            <img src="../../assets/icone-pessoa.png" id="profile-img">
+
+            <br><br>
+
+            <span class="username">
+                <h2>
+                    {{ (utilizador?.FirstName != null && utilizador?.LastName != null) ? (utilizador?.FirstName + ' ' + utilizador?.LastName) : '-----' }}
+                </h2>
+                <button mat-icon-button (click)="editProfile(utilizador.id)">
+                    <mat-icon>edit</mat-icon>
+                </button>
+            </span>
+            <hr>
+            <button type="button" class="btn btn-outline-danger" (click)="logOut()">
+                <mat-icon>logout</mat-icon>
+                Terminar sessão
+            </button>
+        </div>
+
+        <div class="account-details">
+            <h2>
+                Informação geral
+            </h2>
+            <hr>
+            
+            <div class="data">
+                <div class="left-bar"><p></p></div>
+                <table>
+                    <tr>
+                        <td>
+                            Email:
+                        </td>
+                        <td>
+                            {{ (utilizador?.email != null) ? (utilizador?.email) : '-----' }}
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <br> <br>
+
+            <h2>
+                Informação pessoal
+            </h2>
+            <hr>
+            
+            <div class="data">
+                <div class="left-bar"><p></p></div>
+                <table>
+                    <tr>
+                        <td>
+                            Primeiro nome:
+                        </td>
+                        <td>
+                            {{ (utilizador?.FirstName != null) ? (utilizador?.FirstName) : '-----' }}
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Sobrenome:
+                        </td>
+                        <td>
+                            {{ (utilizador?.LastName != null) ? (utilizador?.LastName) : '-----' }}
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Data de nascimento:
+                        </td>
+                        <td>
+                            {{ (utilizador?.datanasc != null) ? (utilizador?.datanasc) : '-----' }}
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Sexo:
+                        </td>
+                        <td>
+                            {{ (utilizador?.sexo != null) ? (utilizador?.sexo) : '-----' }}
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Contacto principal:
+                        </td>
+                        <td>
+                            {{ (utilizador?.Contacto != null) ? (utilizador?.Contacto) : '-----' }}
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <br><br>
+
+            
+            <h2>
+                Informação residencial
+            </h2>
+            <hr>
+
+            <div class="data">
+                <div class="left-bar"><p></p></div>
+                <table>
+                    <tr>
+                        <td>
+                            País:
+                        </td>
+                        <td>
+                            {{ (utilizador?.pais != null) ? (utilizador?.pais) : '-----' }}
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Distrito:
+                        </td>
+                        <td>
+                            {{ (utilizador?.distrito != null) ? (utilizador?.distrito) : '-----' }}
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Concelho:
+                        </td>
+                        <td>
+                            {{ (utilizador?.concelho != null) ? (utilizador?.concelho) : '-----' }}
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Freguesia
+                        </td>
+                        <td>
+                            {{ (utilizador?.freguesia != null) ? (utilizador?.freguesia) : '-----' }}
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Morada:
+                        </td>
+                        <td>
+                            {{ (utilizador?.Morada != null) ? (utilizador?.Morada) : '-----' }}
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Código postal:
+                        </td>
+                        <td>
+                            {{ (utilizador?.CodigoPostal != null) ? (utilizador?.CodigoPostal) : '-----' }}
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <br><br>
+
+            
+            <h2>
+                Informação bancária
+            </h2>
+            <hr>
+
+            <div class="data">
+                <div class="left-bar"><p></p></div>
+                <table>
+                    <tr>
+                        <td>
+                            NIB:
+                        </td>
+                        <td>
+                            {{ (utilizador?.ncontaban != null) ? (utilizador?.ncontaban) : '-----' }}
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Banco:
+                        </td>
+                        <td>
+                            {{ (utilizador?.banco != null) ? (utilizador?.banco) : '-----' }}
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+    <div class="if-empty" *ngIf="!utilizador">
+        <h2>
+          A carregar...
+        </h2>
+        <hr>
+    </div>
+</div>
+
+
+  
+
+<div style="clear: both"></div>
+

@@ -1,0 +1,37 @@
+<!-- Conteúdo do carrinho -->
+
+<div class="if-not-empty" *ngIf="listaCarrinho.length !== 0">
+  <div class="body cart">
+    <table class="products">
+      <tr class="product" *ngFor="let produto of listaCarrinho">
+        <td id="td-image">
+          <img src={{produto.imagem}}>
+        </td>
+        <td>
+          {{ produto.nomeProduto }}
+        </td>
+        <td class="padding">
+          <input type="number" class="quantity" [(ngModel)]="produto.quantidade" (change)="alterarQuantidade($event, produto.quantidadeReal, produto.quantidade)">
+        </td>
+        <td *ngIf="produto.quantidade > 0 && produto.quantidadeReal > produto.quantidade" class="padding">
+          {{ (produto.quantidade * produto.preco) | number: '1.2-2' }} €
+        </td>
+        <td *ngIf="0 >= produto.quantidade" class="padding">
+          {{ produto.preco }} €
+        </td>
+        <td *ngIf="produto.quantidade >= produto.quantidadeReal" class="padding">
+          {{ produto.preco * produto.quantidadeReal }} €
+        </td>
+        <button class="delete" (click)="removerProduto(produto)">
+          X
+        </button>
+      </tr>
+    </table>
+    <br>
+  </div>
+  <div class="buy-button">
+    <button class="btn trebuchet purchase" (click)="abrirConfirmacao()">
+        <mat-icon class="icone material-icons-outlined">shopping_cart</mat-icon> Finalizar compra
+    </button>
+  </div>
+</div>

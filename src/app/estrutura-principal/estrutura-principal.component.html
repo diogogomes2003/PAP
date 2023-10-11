@@ -1,0 +1,205 @@
+<!-- Esta é a estrutura principal do site, onde estão incluídas a Navbar, a Sidebar e o conteúdo
+geral do site (através da tag <app-pagina-principal>). -->
+
+
+
+<!-- Estrutura geral (gerada pela tag <mat-sidenav-container> - container correspondente à Sidenav, 
+  e que inclui todo o conteúdo restante)-->
+
+
+  
+  <mat-sidenav-container class="example-container" (backdropClick)="close('backdrop')">
+  
+  <!-- Navbar -->
+  
+  <header>
+    <nav>
+      <div class="navbar-container">
+        <button class="menu" mat-icon-button color="accent" (click)="sidenav.open()">
+          <mat-icon>menu</mat-icon>
+        </button>
+
+        <a class="navbar-brand" [routerLink]="['']">
+          <img src="././assets/G&S.png" alt="" width="180" height="45">
+        </a>
+
+        <div class="input-group rounded" *ngIf="url == undefined || url == null || url == ''">
+          <span class="input-group-text border-0" id="search-addon">
+            <mat-icon> search </mat-icon>
+          </span>
+          <input type="search" class="form-control rounded" placeholder="Pesquise aqui o seu produto..." name="filtro" [(ngModel)]="filtro" (change)="enviarFiltro(filtro)" (keydown)="enviarFiltro(filtro)"/>
+        </div>
+
+        <div class="buttons">
+          <button mat-icon-button (click)="personalArea()">
+            <mat-icon>person_outline</mat-icon>
+          </button>
+
+          <button mat-icon-button (click)="sidenav2.open()">
+            <mat-icon class="material-icons-outlined">shopping_cart</mat-icon>
+          </button>
+        </div>
+      </div>
+    </nav>
+  </header>
+  
+  <!-- Menu Principal -->
+  
+  <mat-sidenav #sidenav (keydown.escape)="close('escape')">
+    <div class="left_bar"><p></p></div>
+    <div class="content">
+      <div class="head">
+        <p id="menu_title">
+          <img class="bars" src="../../assets/double-bars.png">
+          Menu Principal 
+        </p>
+        <hr class="hr_menu">
+      </div>
+      <div class="body">
+        <mat-expansion-panel (opened)="panelOpenState = true"
+                          (closed)="panelOpenState = false">
+          <mat-expansion-panel-header>
+            <mat-panel-title>
+              <mat-icon class="icone">desktop_windows</mat-icon>
+              Componentes para PC
+            </mat-panel-title>
+          </mat-expansion-panel-header>
+          <mat-list>
+            <mat-list-item>
+              <button class="button" mat-button (click)="close('toggle button')" [routerLink]="['/motherboards']" > Motherboards </button>
+            </mat-list-item>
+            <mat-divider></mat-divider>
+            <mat-list-item>
+              <button class="button" mat-button (click)="close('toggle button')" [routerLink]="['/caixas']">Caixas</button>
+            </mat-list-item>
+            <mat-divider></mat-divider>
+            <mat-list-item>
+              <button class="button" mat-button (click)="close('toggle button')" [routerLink]="['/memorias-ram']">Memórias RAM</button>
+            </mat-list-item>
+            <mat-divider></mat-divider>
+            <mat-list-item>
+              <button class="button" mat-button (click)="close('toggle button')" [routerLink]="['/processadores']">Processadores</button>
+            </mat-list-item>
+            <mat-divider></mat-divider>
+            <mat-list-item>
+              <button class="button" mat-button (click)="close('toggle button')" [routerLink]="['/hdds']">HDDs</button>
+            </mat-list-item>
+            <mat-divider></mat-divider>
+            <mat-list-item>
+              <button class="button" mat-button (click)="close('toggle button')" [routerLink]="['/ssds']">SSDs</button>
+            </mat-list-item>
+            <mat-divider></mat-divider>
+            <mat-list-item>
+              <button class="button" mat-button (click)="close('toggle button')" [routerLink]="['/placas-graficas']">Placas Gráficas</button>
+            </mat-list-item>
+            <mat-divider></mat-divider>
+            <mat-list-item>
+              <button class="button" mat-button (click)="close('toggle button')" [routerLink]="['/cpu-coolers']">Coolers</button>
+            </mat-list-item>
+            <mat-divider></mat-divider>
+            <mat-list-item>
+              <button class="button" mat-button (click)="close('toggle button')" [routerLink]="['/ventoinhas']">Ventoínhas</button>
+            </mat-list-item>
+            <mat-divider></mat-divider>
+            <mat-list-item>
+              <button class="button" mat-button (click)="close('toggle button')" [routerLink]="['/fontes-de-alimentacao']">Fontes de Alimentação</button>
+            </mat-list-item>
+          </mat-list>
+        </mat-expansion-panel>
+
+        <mat-expansion-panel (opened)="panelOpenState = true"
+                          (closed)="panelOpenState = false">
+          <mat-expansion-panel-header>
+            <mat-panel-title>
+              <mat-icon class="icone">mouse</mat-icon>
+              Periféricos
+            </mat-panel-title>
+          </mat-expansion-panel-header>
+          <mat-list>
+            <mat-list-item>
+              <button class="button" mat-button (click)="close('toggle button')" [routerLink]="['/ratos']">Ratos</button>
+            </mat-list-item>
+            <mat-divider></mat-divider>
+            <mat-list-item>
+              <button class="button" mat-button (click)="close('toggle button')" [routerLink]="['/teclados']">Teclados</button>
+            </mat-list-item>
+            <mat-divider></mat-divider>
+            <mat-list-item>
+              <button class="button" mat-button (click)="close('toggle button')" [routerLink]="['/colunas']">Colunas</button>
+            </mat-list-item>
+            <mat-divider></mat-divider>
+            <mat-list-item>
+              <button class="button" mat-button (click)="close('toggle button')" [routerLink]="['/cameras']">Câmaras</button>
+            </mat-list-item>
+            <mat-divider></mat-divider>
+            <mat-list-item>
+              <button class="button" mat-button (click)="close('toggle button')" [routerLink]="['/headphones']">Headphones</button>
+            </mat-list-item>
+          </mat-list>
+        </mat-expansion-panel>
+      </div>
+    </div>
+  </mat-sidenav>
+
+  <!-- Estrutura principal do carrinho de compras -->
+
+  <mat-sidenav position="end" #sidenav2 (keydown.escape)="close('escape')">
+    <div class="cart-content">
+      <div class="head cart">
+        <p id="header"> 
+          <img class="bars" src="../../assets/double-bars.png">
+          Lista de compras 
+        </p>
+        <br>
+        <div class="empty" *ngIf="totalCarrinho === 0"> 
+          O seu carrinho está vazio. 
+          <hr>
+        </div>
+
+        <div class="if-not-empty" *ngIf="totalCarrinho !== 0">
+          <div class="total">
+            <p> <b> TOTAL: </b> {{ totalCarrinho | number : '1.2-2' }} € </p>
+          </div>
+          <hr>
+          <br>
+          <table class="fixed">
+            <tr>
+              <td>
+              </td>
+              <td>
+                Produto
+              </td>
+              <td>
+                Quantidade
+              </td>
+              <td>
+                Preço
+              </td>
+              <td id="space">
+              </td>
+            </tr>
+          </table>
+          <br>
+        </div>
+      </div>
+      <app-cart (total)="receberTotal($event)"></app-cart>
+    </div>
+  </mat-sidenav>
+  
+  
+    <!-- Conteúdo do Site -->
+  
+    <div class="page-content">
+      <router-outlet [pesquisa]="searchString"></router-outlet>
+    </div>
+  
+  
+    <!-- Rodapé -->
+  
+    <app-rodape></app-rodape>
+  
+  
+</mat-sidenav-container>
+
+
+

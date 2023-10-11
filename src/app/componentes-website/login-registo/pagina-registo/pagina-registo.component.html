@@ -1,0 +1,127 @@
+<img id="background" src="https://forensicstore.com/wp-content/uploads/2017/08/computer-store-background.jpg">
+<div class="cobertura">
+    <div class="main"> 
+        <div class="main-box">
+            <h4>Criar conta</h4>
+            <br>
+            <form #f="ngForm" (ngSubmit)="signUp()" class="example-form" [mustMatch]="['password', 'repeatPassword']">
+                <mat-form-field appearance="fill" id="FirstName">
+                    <mat-label>Primeiro nome</mat-label>
+                    <input 
+                        matInput 
+                        name="FirstName"
+                        [(ngModel)]="user.FirstName"
+                        #FirstName="ngModel"
+                        minlength="3"
+                        required
+                    >
+                </mat-form-field>
+
+                <mat-form-field appearance="fill" id="LastName">
+                    <mat-label>Sobrenome</mat-label>
+                    <input 
+                        matInput 
+                        name="LastName"
+                        [(ngModel)]="user.LastName"
+                        #LastName="ngModel"
+                        minlength="3"
+                        required
+                    >
+                </mat-form-field>
+
+                <div class="alignment">
+                    <mat-form-field appearance="fill" id="datanasc">
+                        <mat-label>Data de nascimento</mat-label>
+                        <input 
+                            matInput 
+                            name="datanasc"
+                            [(ngModel)]="user.datanasc"
+                            #datanasc="ngModel"
+                            type="date"
+                        >
+                    </mat-form-field>
+
+                    <mat-radio-group aria-label="Selecione uma opção" id="sexo" name="sexo" [(ngModel)]="user.sexo" #sexo="ngModel">
+                        <p>Sexo</p>
+                        <mat-radio-button value="Masculino"> Masculino </mat-radio-button>
+                        <mat-radio-button value="Feminino" class="float-right"> Feminino </mat-radio-button>
+                    </mat-radio-group>
+                </div>
+
+
+
+                <mat-form-field appearance="fill" class="example-full-width" id="email">
+                    <mat-label>E-mail</mat-label>
+                    <input 
+                        matInput 
+                        name="email"
+                        placeholder="Ex. user@email.com" 
+                        [(ngModel)]="user.email"
+                        #email="ngModel"
+                        required
+                        email
+                    >
+                </mat-form-field>
+
+                <mat-form-field  appearance="fill" class="example-full-width" id="password">
+                    <mat-label>Palavra-passe</mat-label>
+                    <input 
+                        matInput 
+                        name="password"
+                        [type]="hide ? 'password' : 'text'" 
+                        [(ngModel)]="user.password"
+                        #password="ngModel"
+                        minlength="8"
+                        required
+                    >
+                    
+                    <button mat-icon-button 
+                        matSuffix 
+                        type="button"
+                        (click)="hide = !hide">
+                        <mat-icon>{{hide ? 'visibility_off' : 'visibility'}}</mat-icon>
+                    </button>
+                </mat-form-field>
+
+                <mat-form-field appearance="fill" class="example-full-width" id="repeatPassword">
+                    <mat-label>Repita a sua palavra-passe</mat-label>
+                    <input 
+                        matInput 
+                        name="repeatPassword"
+                        [type]="hide ? 'password' : 'text'" 
+                        ngModel
+                        #repeatPassword="ngModel"
+                        required
+                    >
+                    <mat-error *ngIf="repeatPassword.value !== '' && repeatPassword.errors?.passwordMismatch"> A password não corresponde. </mat-error>
+                    
+                    <button mat-icon-button 
+                        matSuffix 
+                        type="button"
+                        (click)="hide = !hide">
+                        <mat-icon>{{hide ? 'visibility_off' : 'visibility'}}</mat-icon>
+                    </button>
+                </mat-form-field>
+
+                <br> <br> 
+
+                <div class="buttons">
+                    <button 
+                        type="button"
+                        mat-flat-button
+                        class="has-acc"
+                        (click)="logIn(f)">Já possuo conta
+                    </button>
+
+                    <button 
+                        type="submit"
+                        [disabled]="!f.valid"  
+                        [class.active]="f.valid"  
+                        mat-button 
+                        class="submit">Criar conta
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

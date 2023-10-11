@@ -1,0 +1,18 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100% }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif }
+
+.principal-container {
+    left: 50%;
+    transform: translateX(-50%);
+    width: 95%;
+    position: relative;
+}
+
+.principal-container img {
+    width: 100%;
+    margin-bottom: 70px;
+    position: relative;
+    margin-top: -10px;
+}

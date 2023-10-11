@@ -1,0 +1,49 @@
+.edit-profile-container {
+    width: 90%;
+    left: 50%;
+    transform: translateX(-50%);
+    position: relative;
+    margin-top: 140px;
+}
+
+.needed {
+    color: red;
+    margin-left: 5px;
+}
+
+h1 {
+    font-weight: 500;
+}
+
+h1 img {
+    width: 40px;
+}
+
+.general-form .general-form, .personal-form .personal-form, .residential-form .residential-form, .bank-form .bank-form {
+    margin-top: 30px;
+}
+
+.col-md-4 {
+    margin-bottom: 20px;
+}
+
+.header h1 {
+    float: left;
+}
+
+.header button {
+    float: right;
+}
+
+.header hr {
+    clear: both;
+}
+
+.ng-invalid.ng-touched:not(form) {
+    border: 1px solid red;
+}
+
+.disabled {
+    color: gray;
+    border-color: gray;
+}

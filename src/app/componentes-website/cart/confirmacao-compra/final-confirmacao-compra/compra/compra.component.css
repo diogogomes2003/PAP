@@ -1,0 +1,32 @@
+.success {
+    width: 400px;
+    height: 350px;
+    position: relative;
+}
+
+.content {
+    width: 350px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: relative;
+}
+
+.content img {
+    width: 200px;
+    margin-bottom: 70px;
+    left: 50%;
+    transform: translateX(-50%);
+    position: relative;
+}
+
+.trebuchet {
+    font-family: 'Trebuchet MS';
+}
+
+.content h2 {
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    border-bottom: 1px solid rgb(58, 58, 58);
+}

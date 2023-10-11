@@ -1,0 +1,131 @@
+hr {
+    color: white;
+    width: 100%;
+}
+
+footer {
+    background-color: rgb(29, 29, 29);
+    padding-top: 5em;
+    padding-bottom: 30px;
+    border-top: 5px solid rgb(255, 69, 0);
+    margin-top: 5em;
+    position: relative;
+    clear: both;
+}
+
+footer p, footer a, footer span {
+    color: #D1D1D1;
+}
+
+footer h2 {
+    font-weight: 400;
+    color: white;
+}
+
+footer a {
+    text-decoration: none;
+}
+
+footer ul {
+    padding: 0;
+}
+
+footer li {
+    list-style: none;
+}
+
+.company-footer img {
+    width: 250px;
+    height: 62px;
+}
+
+.company-footer {
+    float: left;
+    width: 80%;
+}
+
+.footer-list img {
+    width: 32px;
+    height: 32px;
+    margin-right: 15px;
+    opacity: 0.4;
+    transition: .5s;
+}
+
+.footer-box {
+    width: 32.3%;
+    padding: 1%;
+    float: left;
+}
+
+.footer-box.second {
+    float: right;
+}
+
+footer .wrapper:after {
+    clear: both;
+    content: "";
+    display: block;
+}
+
+footer .wrapper {
+    width: 80%;
+    left: 50%;
+    transform: translateX(-50%);
+    margin: 0;
+    position: relative;
+}
+
+.company-footer h2 {
+    margin-top: 20px;
+}
+
+.company-footer p {
+    margin-bottom: 20px;
+}
+
+.footer-list li {
+    margin-bottom: 15px;
+}
+
+.footer-list a, span{
+    transition: .5s;
+}
+
+.footer-list a:hover {
+    color: #FFF;
+}
+
+.footer-list a:hover img{
+    opacity: 1;
+}
+
+.footer-list li:after {
+    clear: both;
+    content: "";
+    display: block;
+}
+
+.footer-list span:hover {
+    color: #FFF;
+}
+
+.footer-social-media {
+    float: right;
+    right: 0;
+}
+
+.footer-bottom {
+    border-top: 1px solid #B2B2B2;
+}
+
+.footer-bottom p {
+    font-weight: 450;
+    margin-top: 40px;
+}
+
+.information-footer hr {
+    width: 135px;
+}
+
+

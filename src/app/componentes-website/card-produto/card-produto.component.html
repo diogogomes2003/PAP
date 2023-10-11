@@ -1,0 +1,40 @@
+<div class="row" *ngIf="listaProdutos">
+  <div *ngFor="let produto of listaProdutos | filter: filtro; let i = index; trackBy: trackByFn" class="col-md-auto">
+    <div class="card">
+        <div class="image" (click)="open_product(produto.id, produto.nome)">
+          <img src={{produto.imageURL}}   alt="...">
+        </div>
+        <div class="card-body">
+          <h5 class="card-title trebuchet" (click)="open_product(produto.id, produto.nome)"> {{ (produto.nome.length > 25) ? (produto.nome | slice: 0:25) + '...' : (produto.nome) }} </h5>
+          <p class="card-text trebuchet"> {{ (produto.descricao.length > 60) ? (produto.descricao | slice: 0:60) + '...' : (produto.descricao) }} </p>
+          <br style="clear: both">
+          <div class="bt-price">
+            <span *ngIf="produto.quantidade !== 0">
+                <button *ngIf="!produto?.adicionado" class="btn trebuchet add-to-cart" (click)="adicionarAoCarrinho(produto)">
+                    <mat-icon class="icone">add_shopping_cart</mat-icon> Adicionar
+                </button>
+                <button *ngIf="produto?.adicionado" class="btn trebuchet added-to-cart" (click)="adicionarAoCarrinho(produto)">
+                  <mat-icon class="icone">done</mat-icon> Adicionado
+                </button>
+            </span>
+            <span *ngIf="produto.quantidade === 0" tabindex="0" data-bs-toggle="tooltip" title="O produto está indisponível de momento.">
+              <button class="btn trebuchet unavailable" disabled>
+                  <mat-icon class="icone">remove_shopping_cart</mat-icon> Indisponível
+              </button>
+            </span>
+            <span>
+                <p class="price"> {{ produto.preco }} € </p> 
+            </span>
+          </div>
+        </div>
+    </div>
+    <br> <br>
+  </div>
+</div>
+
+<div class="if-empty" *ngIf="listaProdutos.length == 0">
+  <h2>
+    A carregar...
+  </h2>
+  <hr>
+</div>
